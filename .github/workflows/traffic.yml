@@ -22,7 +22,7 @@ jobs:
           DATE=$(date -u +%Y-%m-%d)
           OWNER=$(gh api user --jq '.login')
 
-          gh api "/users/${OWNER}/repos" --paginate --jq '.[].name' | head -3 | while read -r REPO; do
+          gh api "/users/${OWNER}/repos" --paginate --jq '.[].name' | while read -r REPO; do
             LETTER=$(echo "${REPO:0:1}" | tr '[:upper:]' '[:lower:]')
             BASE_DIR=".github/data/repos/${LETTER}/${REPO}"
 
