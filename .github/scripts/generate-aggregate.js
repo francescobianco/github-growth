@@ -38,21 +38,25 @@ function loadRepos() {
     for (const repo of fs.readdirSync(letterDir)) {
       const base = path.join(letterDir, repo);
 
-      const trafficFiles = allFiles(path.join(base, 'traffic'));
-      const info         = latestFile(path.join(base, 'info'))      || { stars: 0, default_branch: 'main' };
-      const referrers    = latestFile(path.join(base, 'referrers')) || [];
+      // Use latest referrers file as source of truth for the table (matches original script).
+      // Referrers show traffic from known sources — more meaningful than raw views.
+      const info      = latestFile(path.join(base, 'info'))      || { stars: 0, default_branch: 'main' };
+      const referrers = latestFile(path.join(base, 'referrers'));
 
-      let views = 0, uniques = 0;
-      for (const t of trafficFiles) {
-        views   += t.count   || 0;
-        uniques += t.uniques || 0;
+      let views = 0, uniques = 0, sources = 0;
+      if (Array.isArray(referrers) && referrers.length > 0) {
+        for (const r of referrers) {
+          views   += r.count   || 0;
+          uniques += r.uniques || 0;
+        }
+        sources = referrers.length;
       }
 
       repos.push({
-        repo:           repo,
+        repo,
         uniques,
         views,
-        sources:        Array.isArray(referrers) ? referrers.length : 0,
+        sources,
         stars:          info.stars          || 0,
         default_branch: info.default_branch || 'main',
       });

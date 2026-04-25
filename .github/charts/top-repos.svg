@@ -11,46 +11,46 @@
 
 <text x="400" y="26" text-anchor="middle" class="ttl">Top 10 Repos by Total Views</text>
 
-<rect x="160" y="44" width="580" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="44" width="580" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="59" text-anchor="end" class="lbl">installer</text>
-<text x="746" y="59" class="lbl">36</text>
-<rect x="160" y="72" width="499.44444444444446" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="72" width="32.22222222222222" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="87" text-anchor="end" class="lbl">seagrass-lang</text>
-<text x="665.4444444444445" y="87" class="lbl">31</text>
-<rect x="160" y="100" width="451.11111111111114" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="100" width="80.55555555555556" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="115" text-anchor="end" class="lbl">hardcode.blog</text>
-<text x="617.1111111111111" y="115" class="lbl">28</text>
-<rect x="160" y="128" width="451.11111111111114" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="128" width="16.11111111111111" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="143" text-anchor="end" class="lbl">github-growth</text>
-<text x="617.1111111111111" y="143" class="lbl">28</text>
-<rect x="160" y="156" width="322.22222222222223" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="156" width="145" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="171" text-anchor="end" class="lbl">pbm</text>
-<text x="488.22222222222223" y="171" class="lbl">20</text>
-<rect x="160" y="184" width="306.11111111111114" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="184" width="16.11111111111111" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="199" text-anchor="end" class="lbl">mush-packages</text>
-<text x="472.11111111111114" y="199" class="lbl">19</text>
-<rect x="160" y="212" width="241.66666666666669" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="212" width="32.22222222222222" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="227" text-anchor="end" class="lbl">define</text>
-<text x="407.6666666666667" y="227" class="lbl">15</text>
-<rect x="160" y="240" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="240" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="255" text-anchor="end" class="lbl">millennio</text>
-<text x="359.3333333333333" y="255" class="lbl">12</text>
-<rect x="160" y="268" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="268" width="64.44444444444444" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="283" text-anchor="end" class="lbl">zub.zig</text>
-<text x="359.3333333333333" y="283" class="lbl">12</text>
-<rect x="160" y="296" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="296" width="48.33333333333333" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="311" text-anchor="end" class="lbl">git-login</text>
-<text x="359.3333333333333" y="311" class="lbl">12</text>
+<rect x="160" y="44" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="44" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="59" text-anchor="end" class="lbl">acc</text>
+<text x="166" y="59" class="lbl">0</text>
+<rect x="160" y="72" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="72" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="87" text-anchor="end" class="lbl">acurl</text>
+<text x="166" y="87" class="lbl">0</text>
+<rect x="160" y="100" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="100" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="115" text-anchor="end" class="lbl">admin.lab.tp.it</text>
+<text x="166" y="115" class="lbl">0</text>
+<rect x="160" y="128" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="128" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="143" text-anchor="end" class="lbl">aeterna</text>
+<text x="166" y="143" class="lbl">0</text>
+<rect x="160" y="156" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="156" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="171" text-anchor="end" class="lbl">age-of-developers</text>
+<text x="166" y="171" class="lbl">0</text>
+<rect x="160" y="184" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="184" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="199" text-anchor="end" class="lbl">agent0</text>
+<text x="166" y="199" class="lbl">0</text>
+<rect x="160" y="212" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="212" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="227" text-anchor="end" class="lbl">agentcontainer</text>
+<text x="166" y="227" class="lbl">0</text>
+<rect x="160" y="240" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="240" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="255" text-anchor="end" class="lbl">alphabetor</text>
+<text x="166" y="255" class="lbl">0</text>
+<rect x="160" y="268" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="268" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="283" text-anchor="end" class="lbl">anthropic-quickstarts</text>
+<text x="166" y="283" class="lbl">0</text>
+<rect x="160" y="296" width="0" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="296" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="311" text-anchor="end" class="lbl">apexdomain</text>
+<text x="166" y="311" class="lbl">0</text>
 <rect x="160" y="340" width="12" height="8" fill="#58a6ff"   rx="1"/>
 <text x="176" y="348" class="lbl">Views</text>
 <rect x="226" y="340" width="12" height="8" fill="#3fb950" rx="1" opacity="0.85"/>
