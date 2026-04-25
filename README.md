@@ -11,36 +11,36 @@
 <!-- RANKING_START -->
 | Rank | Repository | Uniques | Views | Sources | Stars | Trend |
 |:----:|------------|:-------:|:-----:|:-------:|:-----:|:-----:|
-| 1 | [seagrass-lang](https://github.com/francescobianco/seagrass-lang) | 6 | 14 | 4 | 2 | 🟩 |
-| 2 | [matrix-theme](https://github.com/francescobianco/matrix-theme) | 5 | 5 | 1 | 4 | 🟩 |
-| 3 | [hardcode.blog](https://github.com/francescobianco/hardcode.blog) | 4 | 27 | 2 | 2 | 🟩 |
-| 4 | [pbm](https://github.com/francescobianco/pbm) | 4 | 12 | 2 | 1 | 🟩 |
-| 5 | [define](https://github.com/francescobianco/define) | 3 | 8 | 2 | 1 | 🟩 |
-| 6 | [zub.zig](https://github.com/francescobianco/zub.zig) | 3 | 5 | 2 | 0 | 🟩 |
-| 7 | [github-traffic](https://github.com/francescobianco/github-traffic) | 2 | 4 | 2 | 4 | 🟩 |
-| 8 | [git-login](https://github.com/francescobianco/git-login) | 2 | 3 | 1 | 1 | 🟩 |
-| 9 | [hookpool](https://github.com/francescobianco/hookpool) | 2 | 2 | 2 | 3 | 🟩 |
-| 10 | [idea](https://github.com/francescobianco/idea) | 2 | 2 | 1 | 1 | 🟩 |
-| 11 | [openelo](https://github.com/francescobianco/openelo) | 2 | 2 | 1 | 1 | 🟩 |
-| 12 | [movegen64](https://github.com/francescobianco/movegen64) | 2 | 2 | 1 | 0 | 🟩 |
-| 13 | [github-growth](https://github.com/francescobianco/github-growth) | 1 | 14 | 1 | 1 | 🟩 |
-| 14 | [mush-packages](https://github.com/francescobianco/mush-packages) | 1 | 9 | 1 | 1 | 🟩 |
-| 15 | [acc](https://github.com/francescobianco/acc) | 1 | 6 | 1 | 0 | 🟥 |
-| 16 | [mush-index](https://github.com/francescobianco/mush-index) | 1 | 4 | 1 | 1 | 🟩 |
-| 17 | [packbase](https://github.com/francescobianco/packbase) | 1 | 4 | 1 | 1 | 🟩 |
-| 18 | [shellcast](https://github.com/francescobianco/shellcast) | 1 | 4 | 1 | 1 | 🟩 |
-| 19 | [s](https://github.com/francescobianco/s) | 1 | 3 | 1 | 1 | 🟩 |
-| 20 | [repo-template](https://github.com/francescobianco/repo-template) | 1 | 3 | 1 | 0 | 🟩 |
-| 21 | [mush-demo](https://github.com/francescobianco/mush-demo) | 1 | 2 | 1 | 1 | 🟩 |
-| 22 | [tpkg](https://github.com/francescobianco/tpkg) | 1 | 2 | 1 | 1 | 🟩 |
-| 23 | [apexdomain](https://github.com/francescobianco/apexdomain) | 1 | 2 | 1 | 0 | 🟥 |
-| 24 | [awesome](https://github.com/francescobianco/awesome) | 1 | 2 | 1 | 0 | 🟥 |
-| 25 | [shell-output-guidelines](https://github.com/francescobianco/shell-output-guidelines) | 1 | 1 | 1 | 10 | 🟩 |
-| 26 | [chess-stamp-history](https://github.com/francescobianco/chess-stamp-history) | 1 | 1 | 1 | 2 | 🟩 |
-| 27 | [dnsflush](https://github.com/francescobianco/dnsflush) | 1 | 1 | 1 | 1 | 🟩 |
-| 28 | [dothosts](https://github.com/francescobianco/dothosts) | 1 | 1 | 1 | 1 | 🟩 |
-| 29 | [mysql-backup](https://github.com/francescobianco/mysql-backup) | 1 | 1 | 1 | 1 | 🟩 |
-| 30 | [open-webui-cli](https://github.com/francescobianco/open-webui-cli) | 1 | 1 | 1 | 1 | 🟩 |
+| 1 | [seagrass-lang](https://github.com/francescobianco/seagrass-lang) | 6 | 14 | 4 | 2 |  |
+| 2 | [matrix-theme](https://github.com/francescobianco/matrix-theme) | 5 | 5 | 1 | 4 |  |
+| 3 | [hardcode.blog](https://github.com/francescobianco/hardcode.blog) | 4 | 27 | 2 | 2 |  |
+| 4 | [pbm](https://github.com/francescobianco/pbm) | 4 | 12 | 2 | 1 |  |
+| 5 | [define](https://github.com/francescobianco/define) | 3 | 8 | 2 | 1 |  |
+| 6 | [zub.zig](https://github.com/francescobianco/zub.zig) | 3 | 5 | 2 | 0 |  |
+| 7 | [github-traffic](https://github.com/francescobianco/github-traffic) | 2 | 4 | 2 | 4 |  |
+| 8 | [git-login](https://github.com/francescobianco/git-login) | 2 | 3 | 1 | 1 |  |
+| 9 | [hookpool](https://github.com/francescobianco/hookpool) | 2 | 2 | 2 | 3 |  |
+| 10 | [idea](https://github.com/francescobianco/idea) | 2 | 2 | 1 | 1 |  |
+| 11 | [openelo](https://github.com/francescobianco/openelo) | 2 | 2 | 1 | 1 |  |
+| 12 | [movegen64](https://github.com/francescobianco/movegen64) | 2 | 2 | 1 | 0 |  |
+| 13 | [github-growth](https://github.com/francescobianco/github-growth) | 1 | 14 | 1 | 1 |  |
+| 14 | [mush-packages](https://github.com/francescobianco/mush-packages) | 1 | 9 | 1 | 1 |  |
+| 15 | [acc](https://github.com/francescobianco/acc) | 1 | 6 | 1 | 0 |  |
+| 16 | [mush-index](https://github.com/francescobianco/mush-index) | 1 | 4 | 1 | 1 |  |
+| 17 | [packbase](https://github.com/francescobianco/packbase) | 1 | 4 | 1 | 1 |  |
+| 18 | [shellcast](https://github.com/francescobianco/shellcast) | 1 | 4 | 1 | 1 |  |
+| 19 | [s](https://github.com/francescobianco/s) | 1 | 3 | 1 | 1 |  |
+| 20 | [repo-template](https://github.com/francescobianco/repo-template) | 1 | 3 | 1 | 0 |  |
+| 21 | [mush-demo](https://github.com/francescobianco/mush-demo) | 1 | 2 | 1 | 1 |  |
+| 22 | [tpkg](https://github.com/francescobianco/tpkg) | 1 | 2 | 1 | 1 |  |
+| 23 | [apexdomain](https://github.com/francescobianco/apexdomain) | 1 | 2 | 1 | 0 |  |
+| 24 | [awesome](https://github.com/francescobianco/awesome) | 1 | 2 | 1 | 0 |  |
+| 25 | [shell-output-guidelines](https://github.com/francescobianco/shell-output-guidelines) | 1 | 1 | 1 | 10 |  |
+| 26 | [chess-stamp-history](https://github.com/francescobianco/chess-stamp-history) | 1 | 1 | 1 | 2 |  |
+| 27 | [dnsflush](https://github.com/francescobianco/dnsflush) | 1 | 1 | 1 | 1 |  |
+| 28 | [dothosts](https://github.com/francescobianco/dothosts) | 1 | 1 | 1 | 1 |  |
+| 29 | [mysql-backup](https://github.com/francescobianco/mysql-backup) | 1 | 1 | 1 | 1 |  |
+| 30 | [open-webui-cli](https://github.com/francescobianco/open-webui-cli) | 1 | 1 | 1 | 1 |  |
 | 31 | [vintage](https://github.com/francescobianco/vintage) | 0 | 0 | 0 | 4 |  |
 | 32 | [blackbox](https://github.com/francescobianco/blackbox) | 0 | 0 | 0 | 3 |  |
 | 33 | [jekyll-html-pages](https://github.com/francescobianco/jekyll-html-pages) | 0 | 0 | 0 | 3 |  |
