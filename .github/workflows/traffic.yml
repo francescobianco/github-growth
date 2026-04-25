@@ -26,21 +26,46 @@ jobs:
             LETTER=$(echo "${REPO:0:1}" | tr '[:upper:]' '[:lower:]')
             BASE_DIR=".github/data/repos/${LETTER}/${REPO}"
 
-            mkdir -p "${BASE_DIR}/traffic" "${BASE_DIR}/referrers" "${BASE_DIR}/info"
+            mkdir -p "${BASE_DIR}/traffic" "${BASE_DIR}/referrers" "${BASE_DIR}/paths" "${BASE_DIR}/info"
 
-            # views
+            # traffic: views (page views per day)
             gh api "/repos/${OWNER}/${REPO}/traffic/views" 2>/dev/null \
               | jq --arg repo "$REPO" --arg date "$DATE" '. + {repo: $repo, collected_at: $date}' \
               > "${BASE_DIR}/traffic/views-${DATE}.json" || true
 
-            # referrers (sources)
-            gh api "/repos/${OWNER}/${REPO}/traffic/popular/referrers" 2>/dev/null \
-              > "${BASE_DIR}/referrers/referrers-${DATE}.json" || echo '[]' > "${BASE_DIR}/referrers/referrers-${DATE}.json"
+            # traffic: clones (git clones per day)
+            gh api "/repos/${OWNER}/${REPO}/traffic/clones" 2>/dev/null \
+              | jq --arg repo "$REPO" --arg date "$DATE" '. + {repo: $repo, collected_at: $date}' \
+              > "${BASE_DIR}/traffic/clones-${DATE}.json" || true
 
-            # repo info (stars, default branch)
-            gh api "/repos/${OWNER}/${REPO}" 2>/dev/null \
-              | jq '{stars: .stargazers_count, default_branch: .default_branch}' \
-              > "${BASE_DIR}/info/info-${DATE}.json" || echo '{"stars":0,"default_branch":"main"}' > "${BASE_DIR}/info/info-${DATE}.json"
+            # referrers: top 10 traffic sources
+            gh api "/repos/${OWNER}/${REPO}/traffic/popular/referrers" 2>/dev/null \
+              > "${BASE_DIR}/referrers/referrers-${DATE}.json" \
+              || echo '[]' > "${BASE_DIR}/referrers/referrers-${DATE}.json"
+
+            # paths: top 10 most visited content paths
+            gh api "/repos/${OWNER}/${REPO}/traffic/popular/paths" 2>/dev/null \
+              > "${BASE_DIR}/paths/paths-${DATE}.json" \
+              || echo '[]' > "${BASE_DIR}/paths/paths-${DATE}.json"
+
+            # repo info: stars, forks, watchers, issues, language, topics, etc.
+            gh api "/repos/${OWNER}/${REPO}" 2>/dev/null | jq '{
+              stars:          .stargazers_count,
+              forks:          .forks_count,
+              watchers:       .watchers_count,
+              open_issues:    .open_issues_count,
+              default_branch: .default_branch,
+              language:       .language,
+              description:    .description,
+              topics:         .topics,
+              archived:       .archived,
+              size_kb:        .size,
+              created_at:     .created_at,
+              updated_at:     .updated_at,
+              pushed_at:      .pushed_at
+            }' > "${BASE_DIR}/info/info-${DATE}.json" \
+              || echo '{"stars":0,"forks":0,"watchers":0,"open_issues":0,"default_branch":"main"}' \
+                   > "${BASE_DIR}/info/info-${DATE}.json"
 
             echo "Saved: ${BASE_DIR}"
           done

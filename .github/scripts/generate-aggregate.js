@@ -40,7 +40,7 @@ function loadRepos() {
 
       // Use latest referrers file as source of truth for the table (matches original script).
       // Referrers show traffic from known sources — more meaningful than raw views.
-      const info      = latestFile(path.join(base, 'info'))      || { stars: 0, default_branch: 'main' };
+      const info      = latestFile(path.join(base, 'info'))      || { stars: 0, forks: 0, watchers: 0, open_issues: 0, default_branch: 'main', language: null };
       const referrers = latestFile(path.join(base, 'referrers'));
 
       let views = 0, uniques = 0, sources = 0;
@@ -58,6 +58,10 @@ function loadRepos() {
         views,
         sources,
         stars:          info.stars          || 0,
+        forks:          info.forks          || 0,
+        watchers:       info.watchers       || 0,
+        open_issues:    info.open_issues    || 0,
+        language:       info.language       || null,
         default_branch: info.default_branch || 'main',
       });
     }
