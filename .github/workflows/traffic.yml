@@ -15,31 +15,24 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate GitHub App token
-        id: app-token
-        uses: actions/create-github-app-token@v2
-        with:
-          app-id: ${{ vars.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
-          owner: IT9HRQ
-          repositories: IT9HRQ
-
-      - name: Fetch and save traffic data
+      - name: Fetch and save traffic data for all repos
         env:
-          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           DATE=$(date -u +%Y-%m-%d)
-          OUTPUT_FILE=".github/data/traffic-${DATE}.json"
+          OWNER=$(gh api user --jq '.login')
 
-          curl -fsSL \
-            -H "Authorization: Bearer ${GH_TOKEN}" \
-            -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/IT9HRQ/IT9HRQ/traffic/views \
-            | jq --arg date "$DATE" '. + {collected_at: $date}' \
-            > "$OUTPUT_FILE"
+          gh api "/users/${OWNER}/repos" --paginate --jq '.[].name' | while read -r REPO; do
+            OUTPUT_FILE=".github/data/${REPO}-${DATE}.json"
 
-          echo "Saved traffic data to $OUTPUT_FILE"
-          cat "$OUTPUT_FILE"
+            RESPONSE=$(gh api "/repos/${OWNER}/${REPO}/traffic/views" 2>/dev/null) || continue
+
+            echo "$RESPONSE" \
+              | jq --arg repo "$REPO" --arg date "$DATE" '. + {repo: $repo, collected_at: $date}' \
+              > "$OUTPUT_FILE"
+
+            echo "Saved: $OUTPUT_FILE"
+          done
 
       - name: Commit traffic data
         run: |
@@ -47,9 +40,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           DATE=$(date -u +%Y-%m-%d)
-          FILE=".github/data/traffic-${DATE}.json"
 
-          git add "$FILE"
+          git add .github/data/
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
