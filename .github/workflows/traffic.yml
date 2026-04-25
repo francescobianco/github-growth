@@ -22,8 +22,12 @@ jobs:
           DATE=$(date -u +%Y-%m-%d)
           OWNER=$(gh api user --jq '.login')
 
-          gh api "/users/${OWNER}/repos" --paginate --jq '.[].name' | while read -r REPO; do
-            OUTPUT_FILE=".github/data/${REPO}-${DATE}.json"
+          gh api "/users/${OWNER}/repos" --paginate --jq '.[].name' | head -3 | while read -r REPO; do
+            LETTER=$(echo "${REPO:0:1}" | tr '[:upper:]' '[:lower:]')
+            OUTPUT_DIR=".github/data/${LETTER}/${REPO}/traffic"
+            OUTPUT_FILE="${OUTPUT_DIR}/traffic-${DATE}.json"
+
+            mkdir -p "$OUTPUT_DIR"
 
             RESPONSE=$(gh api "/repos/${OWNER}/${REPO}/traffic/views" 2>/dev/null) || continue
 
