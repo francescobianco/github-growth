@@ -1,12 +1,20 @@
-name: Read traffic with curl
+name: Collect traffic data
 
 on:
+  schedule:
+    - cron: '0 23 * * *'
   workflow_dispatch:
 
 jobs:
   traffic:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate GitHub App token
         id: app-token
         uses: actions/create-github-app-token@v2
@@ -16,9 +24,36 @@ jobs:
           owner: IT9HRQ
           repositories: IT9HRQ
 
-      - name: Fetch traffic
+      - name: Fetch and save traffic data
+        env:
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
-          curl -L \
-            -H "Authorization: Bearer ${{ steps.app-token.outputs.token }}" \
+          DATE=$(date -u +%Y-%m-%d)
+          OUTPUT_FILE=".github/data/traffic-${DATE}.json"
+
+          curl -fsSL \
+            -H "Authorization: Bearer ${GH_TOKEN}" \
             -H "Accept: application/vnd.github+json" \
-            https://api.github.com/repos/IT9HRQ/IT9HRQ/traffic/views
+            https://api.github.com/repos/IT9HRQ/IT9HRQ/traffic/views \
+            | jq --arg date "$DATE" '. + {collected_at: $date}' \
+            > "$OUTPUT_FILE"
+
+          echo "Saved traffic data to $OUTPUT_FILE"
+          cat "$OUTPUT_FILE"
+
+      - name: Commit traffic data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          DATE=$(date -u +%Y-%m-%d)
+          FILE=".github/data/traffic-${DATE}.json"
+
+          git add "$FILE"
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: collect traffic data for ${DATE}"
+            git push
+          fi
