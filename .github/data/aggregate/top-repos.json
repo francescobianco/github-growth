@@ -3,6 +3,26 @@
   "repos": [
     {
       "repo": "acc",
+      "count": 6,
+      "uniques": 1
+    },
+    {
+      "repo": "info",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "repo": "paths",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "repo": "referrers",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "repo": "traffic",
       "count": 0,
       "uniques": 0
     },
@@ -78,26 +98,6 @@
     },
     {
       "repo": "awesome-bash",
-      "count": 0,
-      "uniques": 0
-    },
-    {
-      "repo": "awesome-cpp",
-      "count": 0,
-      "uniques": 0
-    },
-    {
-      "repo": "awesome-ddd",
-      "count": 0,
-      "uniques": 0
-    },
-    {
-      "repo": "awesome-documentation-tools",
-      "count": 0,
-      "uniques": 0
-    },
-    {
-      "repo": "awesome-hackathon-projects",
       "count": 0,
       "uniques": 0
     }

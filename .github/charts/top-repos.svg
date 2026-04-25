@@ -11,45 +11,45 @@
 
 <text x="400" y="26" text-anchor="middle" class="ttl">Top 10 Repos by Total Views</text>
 
-<rect x="160" y="44" width="0" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="44" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<rect x="160" y="44" width="580" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="44" width="96.66666666666666" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="59" text-anchor="end" class="lbl">acc</text>
-<text x="166" y="59" class="lbl">0</text>
+<text x="746" y="59" class="lbl">6</text>
 <rect x="160" y="72" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="72" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="87" text-anchor="end" class="lbl">acurl</text>
+<text x="152" y="87" text-anchor="end" class="lbl">info</text>
 <text x="166" y="87" class="lbl">0</text>
 <rect x="160" y="100" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="100" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="115" text-anchor="end" class="lbl">admin.lab.tp.it</text>
+<text x="152" y="115" text-anchor="end" class="lbl">paths</text>
 <text x="166" y="115" class="lbl">0</text>
 <rect x="160" y="128" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="128" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="143" text-anchor="end" class="lbl">aeterna</text>
+<text x="152" y="143" text-anchor="end" class="lbl">referrers</text>
 <text x="166" y="143" class="lbl">0</text>
 <rect x="160" y="156" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="156" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="171" text-anchor="end" class="lbl">age-of-developers</text>
+<text x="152" y="171" text-anchor="end" class="lbl">traffic</text>
 <text x="166" y="171" class="lbl">0</text>
 <rect x="160" y="184" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="184" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="199" text-anchor="end" class="lbl">agent0</text>
+<text x="152" y="199" text-anchor="end" class="lbl">acurl</text>
 <text x="166" y="199" class="lbl">0</text>
 <rect x="160" y="212" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="212" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="227" text-anchor="end" class="lbl">agentcontainer</text>
+<text x="152" y="227" text-anchor="end" class="lbl">admin.lab.tp.it</text>
 <text x="166" y="227" class="lbl">0</text>
 <rect x="160" y="240" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="240" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="255" text-anchor="end" class="lbl">alphabetor</text>
+<text x="152" y="255" text-anchor="end" class="lbl">aeterna</text>
 <text x="166" y="255" class="lbl">0</text>
 <rect x="160" y="268" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="268" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="283" text-anchor="end" class="lbl">anthropic-quickstarts</text>
+<text x="152" y="283" text-anchor="end" class="lbl">age-of-developers</text>
 <text x="166" y="283" class="lbl">0</text>
 <rect x="160" y="296" width="0" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="296" width="0" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="311" text-anchor="end" class="lbl">apexdomain</text>
+<text x="152" y="311" text-anchor="end" class="lbl">agent0</text>
 <text x="166" y="311" class="lbl">0</text>
 <rect x="160" y="340" width="12" height="8" fill="#58a6ff"   rx="1"/>
 <text x="176" y="348" class="lbl">Views</text>
