@@ -141,23 +141,116 @@ ${bars}
   return svgWrap(width, height, inner);
 }
 
+// ── ranking table ─────────────────────────────────────────────────────────────
+
+function rankingTable(repos, { width = 820 } = {}) {
+  const ROW_H = 20;
+  const HDR_H = 32;
+  const PAD   = { top: 8, right: 16, bottom: 8, left: 16 };
+
+  const cols = [
+    { key: 'rank',    label: '#',          w: 32,  align: 'end'    },
+    { key: 'repo',    label: 'Repository', w: 290, align: 'start'  },
+    { key: 'uniques', label: 'Uniques',    w: 68,  align: 'end'    },
+    { key: 'views',   label: 'Views',      w: 56,  align: 'end'    },
+    { key: 'sources', label: 'Sources',    w: 62,  align: 'end'    },
+    { key: 'stars',   label: 'Stars',      w: 50,  align: 'end'    },
+    { key: 'trend',   label: 'Trend',      w: 46,  align: 'middle' },
+  ];
+
+  let cx = PAD.left + 8;
+  for (const col of cols) { col.x = cx; cx += col.w + 10; }
+
+  const height = PAD.top + HDR_H + repos.length * ROW_H + PAD.bottom;
+
+  const tx = (col) => col.align === 'end'    ? col.x + col.w
+                    : col.align === 'middle' ? col.x + col.w / 2
+                    : col.x;
+  const ta = (col) => col.align === 'end'    ? 'end'
+                    : col.align === 'middle' ? 'middle'
+                    : 'start';
+
+  const header = cols.map(col =>
+    `<text x="${tx(col)}" y="${PAD.top + 20}" text-anchor="${ta(col)}" class="hdr">${col.label}</text>`
+  ).join('');
+
+  const divider = `<line x1="${PAD.left}" y1="${PAD.top + HDR_H - 2}" x2="${width - PAD.right}" y2="${PAD.top + HDR_H - 2}" stroke="${T.border}" stroke-width="1"/>`;
+
+  const rows = repos.map((d, i) => {
+    const y   = PAD.top + HDR_H + i * ROW_H;
+    const bg  = i % 2 !== 0
+      ? `<rect x="${PAD.left}" y="${y}" width="${width - PAD.left - PAD.right}" height="${ROW_H}" fill="${T.grid}" rx="2"/>`
+      : '';
+    const cells = cols.map(col => {
+      let val = col.key === 'repo'
+        ? d.repo + (d.warning ? ' ⚠' : '')
+        : (d[col.key] ?? 0);
+      const clr = col.key === 'uniques' ? T.views
+                : col.key === 'views'   ? T.uniques
+                : col.key === 'repo' && d.warning ? '#e3b341'
+                : T.label;
+      return `<text x="${tx(col)}" y="${y + ROW_H * 0.68}" text-anchor="${ta(col)}" fill="${clr}" style="font:11px sans-serif">${val}</text>`;
+    }).join('');
+    return bg + cells;
+  }).join('');
+
+  const inner = `
+<style>.hdr{font:bold 11px sans-serif;fill:${T.title}}</style>
+${header}
+${divider}
+${rows}`;
+
+  return svgWrap(width, height, inner);
+}
+
 // ── main ──────────────────────────────────────────────────────────────────────
 
-const dailyData  = readAggregate('daily-views.json');
+const dailyData   = readAggregate('daily-views.json');
 const topRepoData = readAggregate('top-repos.json');
+const rankingData = readAggregate('ranking.json');
 
 if (dailyData) {
-  fs.writeFileSync(
-    path.join(CHARTS_DIR, 'daily-traffic.svg'),
-    lineChart(dailyData.days, { title: 'Total Daily Traffic (all repos)' })
-  );
+  fs.writeFileSync(path.join(CHARTS_DIR, 'daily-traffic.svg'),
+    lineChart(dailyData.days, { title: 'Total Daily Traffic (all repos)' }));
   console.log('Generated: .github/charts/daily-traffic.svg');
 }
 
 if (topRepoData) {
-  fs.writeFileSync(
-    path.join(CHARTS_DIR, 'top-repos.svg'),
-    barChart(topRepoData.repos.slice(0, 10), { title: 'Top 10 Repos by Total Views' })
-  );
+  fs.writeFileSync(path.join(CHARTS_DIR, 'top-repos.svg'),
+    barChart(topRepoData.repos.slice(0, 10), { title: 'Top 10 Repos by Total Views' }));
   console.log('Generated: .github/charts/top-repos.svg');
+}
+
+if (rankingData) {
+  fs.writeFileSync(path.join(CHARTS_DIR, 'ranking.svg'),
+    rankingTable(rankingData.repos));
+  console.log('Generated: .github/charts/ranking.svg');
+}
+
+if (rankingData) {
+  const README = path.join(__dirname, '../../README.md');
+  const START  = '<!-- RANKING_START -->';
+  const END    = '<!-- RANKING_END -->';
+
+  const rows = rankingData.repos.map(r => {
+    const owner   = rankingData.owner || '';
+    const repoUrl = `https://github.com/${owner ? owner + '/' : ''}${r.repo}`;
+    const repoCell = `[${r.repo}](${repoUrl})` +
+      (r.warning ? ` [⚠️](${repoUrl} "Default branch is '${r.warning}', not 'main'")` : '');
+    return `| ${r.rank} | ${repoCell} | ${r.uniques} | ${r.views} | ${r.sources} | ${r.stars} | ${r.trend} |`;
+  }).join('\n');
+
+  const table = [
+    '| Rank | Repository | Uniques | Views | Sources | Stars | Trend |',
+    '|:----:|------------|:-------:|:-----:|:-------:|:-----:|:-----:|',
+    rows,
+  ].join('\n');
+
+  let readme = fs.readFileSync(README, 'utf8');
+  readme = readme.replace(
+    new RegExp(`${START}[\\s\\S]*?${END}`),
+    `${START}\n${table}\n${END}`
+  );
+  fs.writeFileSync(README, readme);
+  console.log(`Updated: README.md (${rankingData.repos.length} rows)`);
 }
