@@ -74,7 +74,7 @@ function buildDailyViews() {
     const letterDir = path.join(REPOS_DIR, letter);
     if (!fs.statSync(letterDir).isDirectory()) continue;
     for (const repo of fs.readdirSync(letterDir)) {
-      for (const t of allFiles(path.join(letterDir, repo, 'traffic'))) {
+      for (const t of allFiles(path.join(letterDir, repo, 'traffic')).filter(t => t)) {
         for (const v of (t.views || [])) {
           const date = v.timestamp.slice(0, 10);
           if (!byDate[date]) byDate[date] = { count: 0, uniques: 0 };

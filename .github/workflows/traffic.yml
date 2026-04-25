@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch and save traffic data for all repos
+      - name: Fetch traffic data for all repos
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
@@ -24,31 +24,40 @@ jobs:
 
           gh api "/users/${OWNER}/repos" --paginate --jq '.[].name' | head -3 | while read -r REPO; do
             LETTER=$(echo "${REPO:0:1}" | tr '[:upper:]' '[:lower:]')
-            OUTPUT_DIR=".github/data/repos/${LETTER}/${REPO}/traffic"
-            OUTPUT_FILE="${OUTPUT_DIR}/traffic-${DATE}.json"
+            BASE_DIR=".github/data/repos/${LETTER}/${REPO}"
 
-            mkdir -p "$OUTPUT_DIR"
+            mkdir -p "${BASE_DIR}/traffic" "${BASE_DIR}/referrers" "${BASE_DIR}/info"
 
-            RESPONSE=$(gh api "/repos/${OWNER}/${REPO}/traffic/views" 2>/dev/null) || continue
-
-            echo "$RESPONSE" \
+            # views
+            gh api "/repos/${OWNER}/${REPO}/traffic/views" 2>/dev/null \
               | jq --arg repo "$REPO" --arg date "$DATE" '. + {repo: $repo, collected_at: $date}' \
-              > "$OUTPUT_FILE"
+              > "${BASE_DIR}/traffic/views-${DATE}.json" || true
 
-            echo "Saved: $OUTPUT_FILE"
+            # referrers (sources)
+            gh api "/repos/${OWNER}/${REPO}/traffic/popular/referrers" 2>/dev/null \
+              > "${BASE_DIR}/referrers/referrers-${DATE}.json" || echo '[]' > "${BASE_DIR}/referrers/referrers-${DATE}.json"
+
+            # repo info (stars, default branch)
+            gh api "/repos/${OWNER}/${REPO}" 2>/dev/null \
+              | jq '{stars: .stargazers_count, default_branch: .default_branch}' \
+              > "${BASE_DIR}/info/info-${DATE}.json" || echo '{"stars":0,"default_branch":"main"}' > "${BASE_DIR}/info/info-${DATE}.json"
+
+            echo "Saved: ${BASE_DIR}"
           done
 
-      - name: Generate charts
-        run: node .github/scripts/generate-charts.js
+      - name: Generate aggregate and charts
+        run: |
+          node .github/scripts/generate-aggregate.js
+          node .github/scripts/generate-charts.js
 
-      - name: Commit traffic data and charts
+      - name: Commit data and charts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           DATE=$(date -u +%Y-%m-%d)
 
-          git add .github/data/ .github/charts/
+          git add .github/data/ .github/charts/ README.md
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
