@@ -1,7 +1,6 @@
 # github-growth
 
-![Daily Traffic](.github/charts/daily-traffic.svg)
-![Top Repos](.github/charts/top-repos.svg)
+![Ranking](.github/charts/ranking.svg)
 
 [Open this page](./../../actions/workflows/traffic.yml)
 
