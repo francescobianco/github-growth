@@ -1,5 +1,8 @@
 # github-growth
 
+![Daily Traffic](.github/charts/daily-traffic.svg)
+![Top Repos](.github/charts/top-repos.svg)
+
 [Open this page](./../../actions/workflows/traffic.yml)
 
 > [!NOTE]

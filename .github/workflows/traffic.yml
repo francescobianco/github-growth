@@ -24,7 +24,7 @@ jobs:
 
           gh api "/users/${OWNER}/repos" --paginate --jq '.[].name' | head -3 | while read -r REPO; do
             LETTER=$(echo "${REPO:0:1}" | tr '[:upper:]' '[:lower:]')
-            OUTPUT_DIR=".github/data/${LETTER}/${REPO}/traffic"
+            OUTPUT_DIR=".github/data/repos/${LETTER}/${REPO}/traffic"
             OUTPUT_FILE="${OUTPUT_DIR}/traffic-${DATE}.json"
 
             mkdir -p "$OUTPUT_DIR"
@@ -38,14 +38,17 @@ jobs:
             echo "Saved: $OUTPUT_FILE"
           done
 
-      - name: Commit traffic data
+      - name: Generate charts
+        run: node .github/scripts/generate-charts.js
+
+      - name: Commit traffic data and charts
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           DATE=$(date -u +%Y-%m-%d)
 
-          git add .github/data/
+          git add .github/data/ .github/charts/
 
           if git diff --cached --quiet; then
             echo "No changes to commit"
