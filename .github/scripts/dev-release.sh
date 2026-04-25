@@ -1,6 +1,8 @@
 #!/bin/bash
 set -e
 
+git pull --no-rebase
+
 sh .github/scripts/dev-init.sh
 
 git add .
