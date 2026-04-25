@@ -1,56 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="356" viewBox="0 0 800 356">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360">
 <style>
-  .lbl  { font: 11px sans-serif; fill: #57606a; }
-  .ttl  { font: bold 13px sans-serif; fill: #24292f; }
-  .grid { stroke: #eaecef; stroke-width: 1; }
-  .axis { stroke: #d0d7de; stroke-width: 1; fill: none; }
-  .lv   { fill: none; stroke: #0969da;   stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
-  .lu   { fill: none; stroke: #1a7f37; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke-dasharray: 4 2; }
+  .lbl { font: 11px sans-serif; fill: #8b949e; }
+  .ttl { font: bold 13px sans-serif; fill: #e6edf3; }
+  .grid { stroke: #21262d; stroke-width: 1; }
+  .axis { stroke: #30363d; stroke-width: 1; fill: none; }
+  .lv  { fill: none; stroke: #58a6ff;   stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+  .lu  { fill: none; stroke: #3fb950; stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; stroke-dasharray: 4 2; }
 </style>
-<text x="400" y="22" text-anchor="middle" class="ttl">Top 10 Repos by Total Views</text>
+<rect width="800" height="360" rx="8" ry="8" fill="#161b22" stroke="#30363d" stroke-width="1"/>
 
-<rect x="160" y="40" width="590" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="40" width="590" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="55" text-anchor="end" class="lbl">installer</text>
-<text x="755" y="55" class="lbl">36</text>
-<rect x="160" y="68" width="508.0555555555556" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="68" width="32.77777777777778" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="83" text-anchor="end" class="lbl">seagrass-lang</text>
-<text x="673.0555555555557" y="83" class="lbl">31</text>
-<rect x="160" y="96" width="458.8888888888889" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="96" width="16.38888888888889" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="111" text-anchor="end" class="lbl">github-growth</text>
-<text x="623.8888888888889" y="111" class="lbl">28</text>
-<rect x="160" y="124" width="458.8888888888889" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="124" width="81.94444444444444" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="139" text-anchor="end" class="lbl">hardcode.blog</text>
-<text x="623.8888888888889" y="139" class="lbl">28</text>
-<rect x="160" y="152" width="327.77777777777777" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="152" width="147.5" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="167" text-anchor="end" class="lbl">pbm</text>
-<text x="492.77777777777777" y="167" class="lbl">20</text>
-<rect x="160" y="180" width="311.3888888888889" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="180" width="16.38888888888889" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="195" text-anchor="end" class="lbl">mush-packages</text>
-<text x="476.3888888888889" y="195" class="lbl">19</text>
-<rect x="160" y="208" width="245.83333333333334" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="208" width="32.77777777777778" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="223" text-anchor="end" class="lbl">define</text>
-<text x="410.83333333333337" y="223" class="lbl">15</text>
-<rect x="160" y="236" width="196.66666666666666" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="236" width="49.166666666666664" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="251" text-anchor="end" class="lbl">git-login</text>
-<text x="361.66666666666663" y="251" class="lbl">12</text>
-<rect x="160" y="264" width="196.66666666666666" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="264" width="196.66666666666666" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="279" text-anchor="end" class="lbl">millennio</text>
-<text x="361.66666666666663" y="279" class="lbl">12</text>
-<rect x="160" y="292" width="196.66666666666666" height="22" fill="#0969da" rx="3"/>
-<rect x="160" y="292" width="16.38888888888889" height="7.333333333333333" fill="#1a7f37" rx="2" opacity="0.85"/>
-<text x="154" y="307" text-anchor="end" class="lbl">packbase</text>
-<text x="361.66666666666663" y="307" class="lbl">12</text>
-<rect x="160" y="336" width="12" height="8" fill="#0969da" rx="1"/>
-<text x="176" y="344" class="lbl">Views</text>
-<rect x="225" y="336" width="12" height="8" fill="#1a7f37" rx="1" opacity="0.85"/>
-<text x="241" y="344" class="lbl">Unique visitors</text>
+<text x="400" y="26" text-anchor="middle" class="ttl">Top 10 Repos by Total Views</text>
+
+<rect x="160" y="44" width="580" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="44" width="580" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="59" text-anchor="end" class="lbl">installer</text>
+<text x="746" y="59" class="lbl">36</text>
+<rect x="160" y="72" width="499.44444444444446" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="72" width="32.22222222222222" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="87" text-anchor="end" class="lbl">seagrass-lang</text>
+<text x="665.4444444444445" y="87" class="lbl">31</text>
+<rect x="160" y="100" width="451.11111111111114" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="100" width="16.11111111111111" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="115" text-anchor="end" class="lbl">github-growth</text>
+<text x="617.1111111111111" y="115" class="lbl">28</text>
+<rect x="160" y="128" width="451.11111111111114" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="128" width="80.55555555555556" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="143" text-anchor="end" class="lbl">hardcode.blog</text>
+<text x="617.1111111111111" y="143" class="lbl">28</text>
+<rect x="160" y="156" width="322.22222222222223" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="156" width="145" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="171" text-anchor="end" class="lbl">pbm</text>
+<text x="488.22222222222223" y="171" class="lbl">20</text>
+<rect x="160" y="184" width="306.11111111111114" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="184" width="16.11111111111111" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="199" text-anchor="end" class="lbl">mush-packages</text>
+<text x="472.11111111111114" y="199" class="lbl">19</text>
+<rect x="160" y="212" width="241.66666666666669" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="212" width="32.22222222222222" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="227" text-anchor="end" class="lbl">define</text>
+<text x="407.6666666666667" y="227" class="lbl">15</text>
+<rect x="160" y="240" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="240" width="48.33333333333333" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="255" text-anchor="end" class="lbl">git-login</text>
+<text x="359.3333333333333" y="255" class="lbl">12</text>
+<rect x="160" y="268" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="268" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="283" text-anchor="end" class="lbl">millennio</text>
+<text x="359.3333333333333" y="283" class="lbl">12</text>
+<rect x="160" y="296" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="296" width="16.11111111111111" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="311" text-anchor="end" class="lbl">packbase</text>
+<text x="359.3333333333333" y="311" class="lbl">12</text>
+<rect x="160" y="340" width="12" height="8" fill="#58a6ff"   rx="1"/>
+<text x="176" y="348" class="lbl">Views</text>
+<rect x="226" y="340" width="12" height="8" fill="#3fb950" rx="1" opacity="0.85"/>
+<text x="242" y="348" class="lbl">Unique visitors</text>
 </svg>
