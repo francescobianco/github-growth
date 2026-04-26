@@ -1,0 +1,15 @@
+{
+  "stars": 0,
+  "forks": 0,
+  "watchers": 0,
+  "open_issues": 0,
+  "default_branch": "master",
+  "language": null,
+  "description": "Calculate the real cost to run your JS app or lib to keep good performance. Show error in pull request if the cost exceeds the limit.",
+  "topics": [],
+  "archived": false,
+  "size_kb": 3720,
+  "created_at": "2020-06-15T07:00:13Z",
+  "updated_at": "2020-06-15T07:00:15Z",
+  "pushed_at": "2020-05-28T20:49:29Z"
+}

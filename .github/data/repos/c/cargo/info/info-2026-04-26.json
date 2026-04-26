@@ -1,0 +1,15 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "master",
+  "language": "Rust",
+  "description": "The Rust package manager",
+  "topics": [],
+  "archived": false,
+  "size_kb": 58678,
+  "created_at": "2022-11-15T18:32:04Z",
+  "updated_at": "2025-05-15T17:18:35Z",
+  "pushed_at": "2025-05-15T17:18:45Z"
+}

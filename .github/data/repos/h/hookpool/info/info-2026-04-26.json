@@ -1,0 +1,19 @@
+{
+  "stars": 3,
+  "forks": 0,
+  "watchers": 3,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": "PHP",
+  "description": null,
+  "topics": [
+    "ifttt",
+    "iot",
+    "webhook"
+  ],
+  "archived": false,
+  "size_kb": 1052,
+  "created_at": "2026-03-25T13:16:23Z",
+  "updated_at": "2026-04-09T21:29:29Z",
+  "pushed_at": "2026-04-02T00:38:50Z"
+}
