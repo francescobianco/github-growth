@@ -1,0 +1,15 @@
+{
+  "stars": 0,
+  "forks": 0,
+  "watchers": 0,
+  "open_issues": 0,
+  "default_branch": "master",
+  "language": null,
+  "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+  "topics": [],
+  "archived": false,
+  "size_kb": 1124,
+  "created_at": "2021-02-08T08:15:08Z",
+  "updated_at": "2021-02-08T08:15:10Z",
+  "pushed_at": "2021-02-08T08:19:26Z"
+}

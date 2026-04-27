@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26",
+  "generated_at": "2026-04-27",
   "repos": [
     {
       "repo": "hardcode.blog",
@@ -7,12 +7,17 @@
       "uniques": 4
     },
     {
+      "repo": "github-growth",
+      "count": 19,
+      "uniques": 2
+    },
+    {
       "repo": "seagrass-lang",
       "count": 14,
       "uniques": 6
     },
     {
-      "repo": "github-growth",
+      "repo": "mush-packages",
       "count": 14,
       "uniques": 1
     },
@@ -22,14 +27,14 @@
       "uniques": 4
     },
     {
-      "repo": "mush-packages",
-      "count": 9,
-      "uniques": 1
-    },
-    {
       "repo": "define",
       "count": 8,
       "uniques": 3
+    },
+    {
+      "repo": "github-traffic",
+      "count": 7,
+      "uniques": 2
     },
     {
       "repo": "acc",
@@ -47,9 +52,14 @@
       "uniques": 3
     },
     {
-      "repo": "github-traffic",
+      "repo": "bulk",
       "count": 4,
       "uniques": 2
+    },
+    {
+      "repo": "hostrun",
+      "count": 4,
+      "uniques": 1
     },
     {
       "repo": "mush-index",
@@ -72,6 +82,11 @@
       "uniques": 2
     },
     {
+      "repo": "installer",
+      "count": 3,
+      "uniques": 1
+    },
+    {
       "repo": "repo-template",
       "count": 3,
       "uniques": 1
@@ -83,21 +98,6 @@
     },
     {
       "repo": "hookpool",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "repo": "idea",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "repo": "movegen64",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "repo": "openelo",
       "count": 2,
       "uniques": 2
     }
