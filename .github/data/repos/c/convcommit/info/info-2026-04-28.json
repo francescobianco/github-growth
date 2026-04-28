@@ -1,0 +1,24 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": "Shell",
+  "description": "Command-line tool that helps enforce Conventional Commits ",
+  "topics": [
+    "cli",
+    "cli-app",
+    "conventional-commits",
+    "developer-tools",
+    "git",
+    "git-workflow",
+    "git-workflows",
+    "makefile"
+  ],
+  "archived": false,
+  "size_kb": 76,
+  "created_at": "2025-01-17T14:01:26Z",
+  "updated_at": "2026-03-03T15:13:52Z",
+  "pushed_at": "2026-03-03T15:10:35Z"
+}

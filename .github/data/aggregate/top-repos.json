@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27",
+  "generated_at": "2026-04-28",
   "repos": [
     {
       "repo": "hardcode.blog",
@@ -8,13 +8,18 @@
     },
     {
       "repo": "github-growth",
-      "count": 19,
+      "count": 20,
       "uniques": 2
     },
     {
       "repo": "seagrass-lang",
+      "count": 15,
+      "uniques": 7
+    },
+    {
+      "repo": "bulk",
       "count": 14,
-      "uniques": 6
+      "uniques": 2
     },
     {
       "repo": "mush-packages",
@@ -50,11 +55,6 @@
       "repo": "zub.zig",
       "count": 5,
       "uniques": 3
-    },
-    {
-      "repo": "bulk",
-      "count": 4,
-      "uniques": 2
     },
     {
       "repo": "hostrun",
@@ -97,7 +97,7 @@
       "uniques": 1
     },
     {
-      "repo": "hookpool",
+      "repo": "idea",
       "count": 2,
       "uniques": 2
     }
