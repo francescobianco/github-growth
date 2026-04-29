@@ -1,0 +1,15 @@
+{
+  "stars": 0,
+  "forks": 0,
+  "watchers": 0,
+  "open_issues": 0,
+  "default_branch": "master",
+  "language": null,
+  "description": "Allows to upload a file and optionally assign a class to it and write meta information about this transaction in the triple store",
+  "topics": [],
+  "archived": false,
+  "size_kb": 6,
+  "created_at": "2020-10-19T16:59:54Z",
+  "updated_at": "2020-10-19T16:59:56Z",
+  "pushed_at": "2017-07-28T10:14:22Z"
+}

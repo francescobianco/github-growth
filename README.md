@@ -18,32 +18,32 @@
 | 5 | [define](https://github.com/francescobianco/define) | 3 | 8 | 2 | 1 |  |
 | 6 | [zub.zig](https://github.com/francescobianco/zub.zig) | 3 | 5 | 2 | 0 |  |
 | 7 | [github-growth](https://github.com/francescobianco/github-growth) | 2 | 20 | 1 | 1 |  |
-| 8 | [bulk](https://github.com/francescobianco/bulk) | 2 | 14 | 1 | 1 | 🟩 |
-| 9 | [github-traffic](https://github.com/francescobianco/github-traffic) | 2 | 7 | 2 | 4 | 🟥 |
+| 8 | [bulk](https://github.com/francescobianco/bulk) | 2 | 14 | 1 | 1 |  |
+| 9 | [github-traffic](https://github.com/francescobianco/github-traffic) | 2 | 7 | 2 | 4 |  |
 | 10 | [git-login](https://github.com/francescobianco/git-login) | 2 | 3 | 1 | 1 |  |
-| 11 | [idea](https://github.com/francescobianco/idea) | 2 | 2 | 1 | 1 | 🟩 |
-| 12 | [openelo](https://github.com/francescobianco/openelo) | 2 | 2 | 1 | 1 | 🟩 |
-| 13 | [movegen64](https://github.com/francescobianco/movegen64) | 2 | 2 | 1 | 0 | 🟩 |
-| 14 | [mush-packages](https://github.com/francescobianco/mush-packages) | 1 | 14 | 1 | 1 | 🟩 |
-| 15 | [acc](https://github.com/francescobianco/acc) | 1 | 6 | 1 | 0 | 🟩 |
-| 16 | [mush-index](https://github.com/francescobianco/mush-index) | 1 | 4 | 1 | 1 | 🟩 |
-| 17 | [packbase](https://github.com/francescobianco/packbase) | 1 | 4 | 1 | 1 | 🟩 |
-| 18 | [shellcast](https://github.com/francescobianco/shellcast) | 1 | 4 | 1 | 1 | 🟩 |
-| 19 | [hostrun](https://github.com/francescobianco/hostrun) | 1 | 4 | 1 | 0 | 🟩 |
-| 20 | [s](https://github.com/francescobianco/s) | 1 | 3 | 1 | 1 | 🟩 |
-| 21 | [installer](https://github.com/francescobianco/installer) [⚠️](https://github.com/francescobianco/installer "Default branch is 'master', not 'main'") | 1 | 3 | 1 | 0 | 🟩 |
-| 22 | [repo-template](https://github.com/francescobianco/repo-template) | 1 | 3 | 1 | 0 | 🟩 |
-| 23 | [mush-demo](https://github.com/francescobianco/mush-demo) | 1 | 2 | 1 | 1 | 🟩 |
-| 24 | [tpkg](https://github.com/francescobianco/tpkg) | 1 | 2 | 1 | 1 | 🟩 |
-| 25 | [apexdomain](https://github.com/francescobianco/apexdomain) | 1 | 2 | 1 | 0 | 🟩 |
-| 26 | [awesome](https://github.com/francescobianco/awesome) | 1 | 2 | 1 | 0 | 🟩 |
-| 27 | [shell-output-guidelines](https://github.com/francescobianco/shell-output-guidelines) | 1 | 1 | 1 | 10 | 🟩 |
-| 28 | [hookpool](https://github.com/francescobianco/hookpool) | 1 | 1 | 1 | 3 | 🟥 |
-| 29 | [github.yafb.net](https://github.com/francescobianco/github.yafb.net) | 1 | 1 | 1 | 2 | 🟩 |
-| 30 | [dnsflush](https://github.com/francescobianco/dnsflush) | 1 | 1 | 1 | 1 | 🟩 |
-| 31 | [dothosts](https://github.com/francescobianco/dothosts) | 1 | 1 | 1 | 1 | 🟩 |
-| 32 | [open-webui-cli](https://github.com/francescobianco/open-webui-cli) | 1 | 1 | 1 | 1 | 🟩 |
-| 33 | [polimar](https://github.com/francescobianco/polimar) | 1 | 1 | 1 | 0 | 🟩 |
+| 11 | [idea](https://github.com/francescobianco/idea) | 2 | 2 | 1 | 1 |  |
+| 12 | [openelo](https://github.com/francescobianco/openelo) | 2 | 2 | 1 | 1 |  |
+| 13 | [movegen64](https://github.com/francescobianco/movegen64) | 2 | 2 | 1 | 0 |  |
+| 14 | [mush-packages](https://github.com/francescobianco/mush-packages) | 1 | 14 | 1 | 1 |  |
+| 15 | [acc](https://github.com/francescobianco/acc) | 1 | 6 | 1 | 0 |  |
+| 16 | [mush-index](https://github.com/francescobianco/mush-index) | 1 | 4 | 1 | 1 |  |
+| 17 | [packbase](https://github.com/francescobianco/packbase) | 1 | 4 | 1 | 1 |  |
+| 18 | [shellcast](https://github.com/francescobianco/shellcast) | 1 | 4 | 1 | 1 |  |
+| 19 | [hostrun](https://github.com/francescobianco/hostrun) | 1 | 4 | 1 | 0 |  |
+| 20 | [s](https://github.com/francescobianco/s) | 1 | 3 | 1 | 1 |  |
+| 21 | [installer](https://github.com/francescobianco/installer) [⚠️](https://github.com/francescobianco/installer "Default branch is 'master', not 'main'") | 1 | 3 | 1 | 0 |  |
+| 22 | [repo-template](https://github.com/francescobianco/repo-template) | 1 | 3 | 1 | 0 |  |
+| 23 | [mush-demo](https://github.com/francescobianco/mush-demo) | 1 | 2 | 1 | 1 |  |
+| 24 | [tpkg](https://github.com/francescobianco/tpkg) | 1 | 2 | 1 | 1 |  |
+| 25 | [apexdomain](https://github.com/francescobianco/apexdomain) | 1 | 2 | 1 | 0 |  |
+| 26 | [awesome](https://github.com/francescobianco/awesome) | 1 | 2 | 1 | 0 |  |
+| 27 | [shell-output-guidelines](https://github.com/francescobianco/shell-output-guidelines) | 1 | 1 | 1 | 10 |  |
+| 28 | [hookpool](https://github.com/francescobianco/hookpool) | 1 | 1 | 1 | 3 |  |
+| 29 | [github.yafb.net](https://github.com/francescobianco/github.yafb.net) | 1 | 1 | 1 | 2 |  |
+| 30 | [dnsflush](https://github.com/francescobianco/dnsflush) | 1 | 1 | 1 | 1 |  |
+| 31 | [dothosts](https://github.com/francescobianco/dothosts) | 1 | 1 | 1 | 1 |  |
+| 32 | [open-webui-cli](https://github.com/francescobianco/open-webui-cli) | 1 | 1 | 1 | 1 |  |
+| 33 | [polimar](https://github.com/francescobianco/polimar) | 1 | 1 | 1 | 0 |  |
 | 34 | [vintage](https://github.com/francescobianco/vintage) | 0 | 0 | 0 | 4 |  |
 | 35 | [blackbox](https://github.com/francescobianco/blackbox) | 0 | 0 | 0 | 3 |  |
 | 36 | [jekyll-html-pages](https://github.com/francescobianco/jekyll-html-pages) | 0 | 0 | 0 | 3 |  |
@@ -304,30 +304,31 @@
 | 291 | [rodart.it](https://github.com/francescobianco/rodart.it) | 0 | 0 | 0 | 0 |  |
 | 292 | [rsync](https://github.com/francescobianco/rsync) | 0 | 0 | 0 | 0 |  |
 | 293 | [rust](https://github.com/francescobianco/rust) [⚠️](https://github.com/francescobianco/rust "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
-| 294 | [scrum](https://github.com/francescobianco/scrum) [⚠️](https://github.com/francescobianco/scrum "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
-| 295 | [secret](https://github.com/francescobianco/secret) | 0 | 0 | 0 | 0 |  |
-| 296 | [selecting-the-best-llm](https://github.com/francescobianco/selecting-the-best-llm) | 0 | 0 | 0 | 0 |  |
-| 297 | [shell-programming-standards](https://github.com/francescobianco/shell-programming-standards) | 0 | 0 | 0 | 0 |  |
-| 298 | [size-limit](https://github.com/francescobianco/size-limit) [⚠️](https://github.com/francescobianco/size-limit "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
-| 299 | [smith.sh](https://github.com/francescobianco/smith.sh) | 0 | 0 | 0 | 0 |  |
-| 300 | [springboard](https://github.com/francescobianco/springboard) | 0 | 0 | 0 | 0 |  |
-| 301 | [ssh.yafb.net](https://github.com/francescobianco/ssh.yafb.net) | 0 | 0 | 0 | 0 |  |
-| 302 | [suitecrm-gdpr-plugin](https://github.com/francescobianco/suitecrm-gdpr-plugin) [⚠️](https://github.com/francescobianco/suitecrm-gdpr-plugin "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
-| 303 | [tahoe](https://github.com/francescobianco/tahoe) | 0 | 0 | 0 | 0 |  |
-| 304 | [talks](https://github.com/francescobianco/talks) | 0 | 0 | 0 | 0 |  |
-| 305 | [term-analysis-manifesto](https://github.com/francescobianco/term-analysis-manifesto) | 0 | 0 | 0 | 0 |  |
-| 306 | [Thaiane](https://github.com/francescobianco/Thaiane) [⚠️](https://github.com/francescobianco/Thaiane "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
-| 307 | [the-art-of-command-line](https://github.com/francescobianco/the-art-of-command-line) [⚠️](https://github.com/francescobianco/the-art-of-command-line "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
-| 308 | [tolerant-php-parser](https://github.com/francescobianco/tolerant-php-parser) | 0 | 0 | 0 | 0 |  |
-| 309 | [traffic](https://github.com/francescobianco/traffic) | 0 | 0 | 0 | 0 |  |
+| 294 | [salt](https://github.com/francescobianco/salt) | 0 | 0 | 0 | 0 |  |
+| 295 | [scrum](https://github.com/francescobianco/scrum) [⚠️](https://github.com/francescobianco/scrum "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
+| 296 | [secret](https://github.com/francescobianco/secret) | 0 | 0 | 0 | 0 |  |
+| 297 | [selecting-the-best-llm](https://github.com/francescobianco/selecting-the-best-llm) | 0 | 0 | 0 | 0 |  |
+| 298 | [shell-programming-standards](https://github.com/francescobianco/shell-programming-standards) | 0 | 0 | 0 | 0 |  |
+| 299 | [size-limit](https://github.com/francescobianco/size-limit) [⚠️](https://github.com/francescobianco/size-limit "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
+| 300 | [smith.sh](https://github.com/francescobianco/smith.sh) | 0 | 0 | 0 | 0 |  |
+| 301 | [springboard](https://github.com/francescobianco/springboard) | 0 | 0 | 0 | 0 |  |
+| 302 | [ssh.yafb.net](https://github.com/francescobianco/ssh.yafb.net) | 0 | 0 | 0 | 0 |  |
+| 303 | [suitecrm-gdpr-plugin](https://github.com/francescobianco/suitecrm-gdpr-plugin) [⚠️](https://github.com/francescobianco/suitecrm-gdpr-plugin "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
+| 304 | [tahoe](https://github.com/francescobianco/tahoe) | 0 | 0 | 0 | 0 |  |
+| 305 | [talks](https://github.com/francescobianco/talks) | 0 | 0 | 0 | 0 |  |
+| 306 | [term-analysis-manifesto](https://github.com/francescobianco/term-analysis-manifesto) | 0 | 0 | 0 | 0 |  |
+| 307 | [Thaiane](https://github.com/francescobianco/Thaiane) [⚠️](https://github.com/francescobianco/Thaiane "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
+| 308 | [the-art-of-command-line](https://github.com/francescobianco/the-art-of-command-line) [⚠️](https://github.com/francescobianco/the-art-of-command-line "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
+| 309 | [tolerant-php-parser](https://github.com/francescobianco/tolerant-php-parser) | 0 | 0 | 0 | 0 |  |
 | 310 | [traffic](https://github.com/francescobianco/traffic) | 0 | 0 | 0 | 0 |  |
-| 311 | [volafacile](https://github.com/francescobianco/volafacile) | 0 | 0 | 0 | 0 |  |
-| 312 | [volafacile.info](https://github.com/francescobianco/volafacile.info) | 0 | 0 | 0 | 0 |  |
-| 313 | [volta-uninstall](https://github.com/francescobianco/volta-uninstall) | 0 | 0 | 0 | 0 |  |
-| 314 | [waproxy](https://github.com/francescobianco/waproxy) | 0 | 0 | 0 | 0 |  |
-| 315 | [wbm](https://github.com/francescobianco/wbm) | 0 | 0 | 0 | 0 |  |
-| 316 | [webinar.yafb.net](https://github.com/francescobianco/webinar.yafb.net) | 0 | 0 | 0 | 0 |  |
-| 317 | [webrequest](https://github.com/francescobianco/webrequest) | 0 | 0 | 0 | 0 |  |
-| 318 | [WikiDocs](https://github.com/francescobianco/WikiDocs) [⚠️](https://github.com/francescobianco/WikiDocs "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
-| 319 | [wrish](https://github.com/francescobianco/wrish) | 0 | 0 | 0 | 0 |  |
+| 311 | [traffic](https://github.com/francescobianco/traffic) | 0 | 0 | 0 | 0 |  |
+| 312 | [volafacile](https://github.com/francescobianco/volafacile) | 0 | 0 | 0 | 0 |  |
+| 313 | [volafacile.info](https://github.com/francescobianco/volafacile.info) | 0 | 0 | 0 | 0 |  |
+| 314 | [volta-uninstall](https://github.com/francescobianco/volta-uninstall) | 0 | 0 | 0 | 0 |  |
+| 315 | [waproxy](https://github.com/francescobianco/waproxy) | 0 | 0 | 0 | 0 |  |
+| 316 | [wbm](https://github.com/francescobianco/wbm) | 0 | 0 | 0 | 0 |  |
+| 317 | [webinar.yafb.net](https://github.com/francescobianco/webinar.yafb.net) | 0 | 0 | 0 | 0 |  |
+| 318 | [webrequest](https://github.com/francescobianco/webrequest) | 0 | 0 | 0 | 0 |  |
+| 319 | [WikiDocs](https://github.com/francescobianco/WikiDocs) [⚠️](https://github.com/francescobianco/WikiDocs "Default branch is 'master', not 'main'") | 0 | 0 | 0 | 0 |  |
+| 320 | [wrish](https://github.com/francescobianco/wrish) | 0 | 0 | 0 | 0 |  |
 <!-- RANKING_END -->

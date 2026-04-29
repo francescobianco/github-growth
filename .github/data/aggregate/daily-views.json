@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28",
+  "generated_at": "2026-04-29",
   "days": [
     {
       "date": "2026-03-29",
@@ -83,76 +83,81 @@
     },
     {
       "date": "2026-04-14",
-      "count": 40,
-      "uniques": 12
+      "count": 50,
+      "uniques": 15
     },
     {
       "date": "2026-04-15",
-      "count": 144,
-      "uniques": 72
+      "count": 180,
+      "uniques": 90
     },
     {
       "date": "2026-04-16",
-      "count": 229,
-      "uniques": 45
+      "count": 286,
+      "uniques": 56
     },
     {
       "date": "2026-04-17",
-      "count": 160,
-      "uniques": 40
+      "count": 200,
+      "uniques": 50
     },
     {
       "date": "2026-04-18",
-      "count": 8,
-      "uniques": 8
+      "count": 10,
+      "uniques": 10
     },
     {
       "date": "2026-04-19",
-      "count": 40,
-      "uniques": 32
+      "count": 50,
+      "uniques": 40
     },
     {
       "date": "2026-04-20",
-      "count": 52,
-      "uniques": 52
+      "count": 65,
+      "uniques": 65
     },
     {
       "date": "2026-04-21",
-      "count": 100,
-      "uniques": 36
+      "count": 125,
+      "uniques": 45
     },
     {
       "date": "2026-04-22",
-      "count": 44,
-      "uniques": 20
+      "count": 55,
+      "uniques": 25
     },
     {
       "date": "2026-04-23",
-      "count": 160,
-      "uniques": 48
+      "count": 200,
+      "uniques": 60
     },
     {
       "date": "2026-04-24",
-      "count": 140,
-      "uniques": 32
+      "count": 175,
+      "uniques": 40
     },
     {
       "date": "2026-04-25",
-      "count": 160,
-      "uniques": 18
+      "count": 240,
+      "uniques": 27
     },
     {
       "date": "2026-04-26",
-      "count": 48,
-      "uniques": 18
+      "count": 72,
+      "uniques": 27
     },
     {
       "date": "2026-04-27",
-      "count": 18,
-      "uniques": 6
+      "count": 36,
+      "uniques": 12
     },
     {
       "date": "2026-04-28",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "date": "2026-04-29",
       "count": 0,
       "uniques": 0
     }
