@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29",
+  "generated_at": "2026-04-30",
   "days": [
     {
       "date": "2026-03-29",
@@ -93,71 +93,76 @@
     },
     {
       "date": "2026-04-16",
-      "count": 286,
-      "uniques": 56
+      "count": 343,
+      "uniques": 67
     },
     {
       "date": "2026-04-17",
-      "count": 200,
-      "uniques": 50
-    },
-    {
-      "date": "2026-04-18",
-      "count": 10,
-      "uniques": 10
-    },
-    {
-      "date": "2026-04-19",
-      "count": 50,
-      "uniques": 40
-    },
-    {
-      "date": "2026-04-20",
-      "count": 65,
-      "uniques": 65
-    },
-    {
-      "date": "2026-04-21",
-      "count": 125,
-      "uniques": 45
-    },
-    {
-      "date": "2026-04-22",
-      "count": 55,
-      "uniques": 25
-    },
-    {
-      "date": "2026-04-23",
-      "count": 200,
+      "count": 240,
       "uniques": 60
     },
     {
-      "date": "2026-04-24",
-      "count": 175,
-      "uniques": 40
-    },
-    {
-      "date": "2026-04-25",
-      "count": 240,
-      "uniques": 27
-    },
-    {
-      "date": "2026-04-26",
-      "count": 72,
-      "uniques": 27
-    },
-    {
-      "date": "2026-04-27",
-      "count": 36,
+      "date": "2026-04-18",
+      "count": 12,
       "uniques": 12
     },
     {
+      "date": "2026-04-19",
+      "count": 60,
+      "uniques": 48
+    },
+    {
+      "date": "2026-04-20",
+      "count": 78,
+      "uniques": 78
+    },
+    {
+      "date": "2026-04-21",
+      "count": 150,
+      "uniques": 54
+    },
+    {
+      "date": "2026-04-22",
+      "count": 66,
+      "uniques": 30
+    },
+    {
+      "date": "2026-04-23",
+      "count": 240,
+      "uniques": 72
+    },
+    {
+      "date": "2026-04-24",
+      "count": 210,
+      "uniques": 48
+    },
+    {
+      "date": "2026-04-25",
+      "count": 320,
+      "uniques": 36
+    },
+    {
+      "date": "2026-04-26",
+      "count": 96,
+      "uniques": 36
+    },
+    {
+      "date": "2026-04-27",
+      "count": 50,
+      "uniques": 16
+    },
+    {
       "date": "2026-04-28",
-      "count": 0,
-      "uniques": 0
+      "count": 2,
+      "uniques": 2
     },
     {
       "date": "2026-04-29",
+      "count": 17,
+      "uniques": 8
+    },
+    {
+      "date": "2026-04-30",
       "count": 0,
       "uniques": 0
     }

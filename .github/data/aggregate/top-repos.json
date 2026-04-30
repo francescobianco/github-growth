@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-04-29",
+  "generated_at": "2026-04-30",
   "repos": [
     {
       "repo": "hardcode.blog",
-      "count": 27,
-      "uniques": 4
+      "count": 26,
+      "uniques": 3
     },
     {
       "repo": "github-growth",
@@ -27,11 +27,6 @@
       "uniques": 1
     },
     {
-      "repo": "pbm",
-      "count": 12,
-      "uniques": 4
-    },
-    {
       "repo": "define",
       "count": 8,
       "uniques": 3
@@ -47,6 +42,11 @@
       "uniques": 1
     },
     {
+      "repo": "squaresense",
+      "count": 6,
+      "uniques": 1
+    },
+    {
       "repo": "matrix-theme",
       "count": 5,
       "uniques": 5
@@ -58,16 +58,16 @@
     },
     {
       "repo": "hostrun",
-      "count": 4,
+      "count": 5,
+      "uniques": 1
+    },
+    {
+      "repo": "salt",
+      "count": 5,
       "uniques": 1
     },
     {
       "repo": "mush-index",
-      "count": 4,
-      "uniques": 1
-    },
-    {
-      "repo": "packbase",
       "count": 4,
       "uniques": 1
     },
@@ -82,17 +82,17 @@
       "uniques": 2
     },
     {
+      "repo": "pbm",
+      "count": 3,
+      "uniques": 2
+    },
+    {
       "repo": "installer",
       "count": 3,
       "uniques": 1
     },
     {
       "repo": "repo-template",
-      "count": 3,
-      "uniques": 1
-    },
-    {
-      "repo": "s",
       "count": 3,
       "uniques": 1
     },
