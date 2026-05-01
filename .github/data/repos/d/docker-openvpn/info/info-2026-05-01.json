@@ -1,0 +1,15 @@
+{
+  "stars": 0,
+  "forks": 0,
+  "watchers": 0,
+  "open_issues": 0,
+  "default_branch": "master",
+  "language": null,
+  "description": "🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA",
+  "topics": [],
+  "archived": false,
+  "size_kb": 385,
+  "created_at": "2021-01-13T10:37:21Z",
+  "updated_at": "2021-01-13T10:37:23Z",
+  "pushed_at": "2021-01-03T08:53:03Z"
+}

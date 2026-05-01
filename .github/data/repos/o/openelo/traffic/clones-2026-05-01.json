@@ -1,0 +1,78 @@
+{
+  "count": 431,
+  "uniques": 209,
+  "clones": [
+    {
+      "timestamp": "2026-04-17T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-04-18T00:00:00Z",
+      "count": 49,
+      "uniques": 28
+    },
+    {
+      "timestamp": "2026-04-19T00:00:00Z",
+      "count": 199,
+      "uniques": 96
+    },
+    {
+      "timestamp": "2026-04-20T00:00:00Z",
+      "count": 9,
+      "uniques": 6
+    },
+    {
+      "timestamp": "2026-04-21T00:00:00Z",
+      "count": 8,
+      "uniques": 4
+    },
+    {
+      "timestamp": "2026-04-22T00:00:00Z",
+      "count": 45,
+      "uniques": 16
+    },
+    {
+      "timestamp": "2026-04-23T00:00:00Z",
+      "count": 29,
+      "uniques": 20
+    },
+    {
+      "timestamp": "2026-04-24T00:00:00Z",
+      "count": 51,
+      "uniques": 22
+    },
+    {
+      "timestamp": "2026-04-25T00:00:00Z",
+      "count": 36,
+      "uniques": 22
+    },
+    {
+      "timestamp": "2026-04-26T00:00:00Z",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-04-27T00:00:00Z",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "timestamp": "2026-04-28T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    },
+    {
+      "timestamp": "2026-04-29T00:00:00Z",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "timestamp": "2026-04-30T00:00:00Z",
+      "count": 0,
+      "uniques": 0
+    }
+  ],
+  "repo": "openelo",
+  "collected_at": "2026-05-01"
+}

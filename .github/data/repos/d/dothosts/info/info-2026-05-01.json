@@ -1,0 +1,18 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": null,
+  "description": "The .hosts file specification",
+  "topics": [
+    "hosts",
+    "hosts-manage"
+  ],
+  "archived": false,
+  "size_kb": 7,
+  "created_at": "2024-01-22T18:25:05Z",
+  "updated_at": "2024-02-01T14:21:03Z",
+  "pushed_at": "2024-02-01T14:26:12Z"
+}

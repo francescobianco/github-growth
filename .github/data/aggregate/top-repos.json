@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-04-30",
+  "generated_at": "2026-05-01",
   "repos": [
     {
       "repo": "hardcode.blog",
       "count": 26,
       "uniques": 3
-    },
-    {
-      "repo": "github-growth",
-      "count": 20,
-      "uniques": 2
     },
     {
       "repo": "seagrass-lang",
@@ -37,6 +32,11 @@
       "uniques": 2
     },
     {
+      "repo": "github-growth",
+      "count": 6,
+      "uniques": 2
+    },
+    {
       "repo": "acc",
       "count": 6,
       "uniques": 1
@@ -45,16 +45,6 @@
       "repo": "squaresense",
       "count": 6,
       "uniques": 1
-    },
-    {
-      "repo": "matrix-theme",
-      "count": 5,
-      "uniques": 5
-    },
-    {
-      "repo": "zub.zig",
-      "count": 5,
-      "uniques": 3
     },
     {
       "repo": "hostrun",
@@ -67,12 +57,12 @@
       "uniques": 1
     },
     {
-      "repo": "mush-index",
+      "repo": "matrix-theme",
       "count": 4,
-      "uniques": 1
+      "uniques": 4
     },
     {
-      "repo": "shellcast",
+      "repo": "mush-index",
       "count": 4,
       "uniques": 1
     },
@@ -92,14 +82,24 @@
       "uniques": 1
     },
     {
-      "repo": "repo-template",
-      "count": 3,
-      "uniques": 1
-    },
-    {
       "repo": "idea",
       "count": 2,
       "uniques": 2
+    },
+    {
+      "repo": "movegen64",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "repo": "openelo",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "repo": "apexdomain",
+      "count": 2,
+      "uniques": 1
     }
   ]
 }
