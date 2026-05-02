@@ -1,0 +1,18 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": "Shell",
+  "description": "Ridiculously Simple CLI for Host Management",
+  "topics": [
+    "cli",
+    "host-manager"
+  ],
+  "archived": false,
+  "size_kb": 10,
+  "created_at": "2024-11-22T08:03:07Z",
+  "updated_at": "2025-05-14T15:49:29Z",
+  "pushed_at": "2025-05-14T15:49:25Z"
+}

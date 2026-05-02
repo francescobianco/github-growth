@@ -1,0 +1,15 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": null,
+  "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+  "topics": [],
+  "archived": false,
+  "size_kb": 58028,
+  "created_at": "2022-04-10T21:59:20Z",
+  "updated_at": "2023-03-04T01:56:48Z",
+  "pushed_at": "2022-04-10T11:25:16Z"
+}

@@ -1,0 +1,15 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": "Makefile",
+  "description": "error is a simple Mush module that prints error messages to stderr, optionally exiting with a status code — Mush-style!",
+  "topics": [],
+  "archived": false,
+  "size_kb": 5,
+  "created_at": "2025-05-02T07:50:51Z",
+  "updated_at": "2025-05-05T19:57:00Z",
+  "pushed_at": "2025-05-05T19:56:57Z"
+}
