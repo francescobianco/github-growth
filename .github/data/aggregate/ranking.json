@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02",
+  "generated_at": "2026-05-03",
   "owner": "francescobianco",
   "repos": [
     {
@@ -19,7 +19,7 @@
       "views": 15,
       "sources": 2,
       "stars": 2,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -29,7 +29,7 @@
       "views": 8,
       "sources": 2,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -39,7 +39,7 @@
       "views": 3,
       "sources": 1,
       "stars": 4,
-      "trend": "🟥",
+      "trend": "",
       "warning": ""
     },
     {
@@ -79,7 +79,7 @@
       "views": 3,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -89,7 +89,7 @@
       "views": 2,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -99,7 +99,7 @@
       "views": 2,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -109,7 +109,7 @@
       "views": 2,
       "sources": 1,
       "stars": 0,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -119,7 +119,7 @@
       "views": 14,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -129,7 +129,7 @@
       "views": 6,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -139,7 +139,7 @@
       "views": 6,
       "sources": 1,
       "stars": 0,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -149,7 +149,7 @@
       "views": 5,
       "sources": 1,
       "stars": 0,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -159,7 +159,7 @@
       "views": 5,
       "sources": 1,
       "stars": 0,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -169,7 +169,7 @@
       "views": 3,
       "sources": 1,
       "stars": 0,
-      "trend": "🟩",
+      "trend": "",
       "warning": "master"
     },
     {
@@ -179,7 +179,7 @@
       "views": 2,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -189,7 +189,7 @@
       "views": 2,
       "sources": 1,
       "stars": 0,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -199,7 +199,7 @@
       "views": 1,
       "sources": 1,
       "stars": 10,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -209,7 +209,7 @@
       "views": 1,
       "sources": 1,
       "stars": 3,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -219,7 +219,7 @@
       "views": 1,
       "sources": 1,
       "stars": 2,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -229,7 +229,7 @@
       "views": 1,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": "master"
     },
     {
@@ -239,7 +239,7 @@
       "views": 1,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -249,7 +249,7 @@
       "views": 1,
       "sources": 1,
       "stars": 1,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -259,7 +259,7 @@
       "views": 1,
       "sources": 1,
       "stars": 0,
-      "trend": "🟩",
+      "trend": "",
       "warning": "master"
     },
     {
@@ -269,7 +269,7 @@
       "views": 1,
       "sources": 1,
       "stars": 0,
-      "trend": "🟩",
+      "trend": "",
       "warning": ""
     },
     {
@@ -2844,7 +2844,7 @@
     },
     {
       "rank": 285,
-      "repo": "quickies",
+      "repo": "qchess",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -2854,7 +2854,7 @@
     },
     {
       "rank": 286,
-      "repo": "rclone",
+      "repo": "quickies",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -2864,6 +2864,16 @@
     },
     {
       "rank": 287,
+      "repo": "rclone",
+      "uniques": 0,
+      "views": 0,
+      "sources": 0,
+      "stars": 0,
+      "trend": "",
+      "warning": ""
+    },
+    {
+      "rank": 288,
       "repo": "react-jsonschema-form",
       "uniques": 0,
       "views": 0,
@@ -2873,18 +2883,8 @@
       "warning": "master"
     },
     {
-      "rank": 288,
-      "repo": "referrers",
-      "uniques": 0,
-      "views": 0,
-      "sources": 0,
-      "stars": 0,
-      "trend": "",
-      "warning": ""
-    },
-    {
       "rank": 289,
-      "repo": "repo-template",
+      "repo": "redit",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -2894,7 +2894,7 @@
     },
     {
       "rank": 290,
-      "repo": "repology-stack",
+      "repo": "referrers",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -2904,7 +2904,7 @@
     },
     {
       "rank": 291,
-      "repo": "rodart.it",
+      "repo": "repo-template",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -2914,7 +2914,7 @@
     },
     {
       "rank": 292,
-      "repo": "rsync",
+      "repo": "repology-stack",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -2924,6 +2924,26 @@
     },
     {
       "rank": 293,
+      "repo": "rodart.it",
+      "uniques": 0,
+      "views": 0,
+      "sources": 0,
+      "stars": 0,
+      "trend": "",
+      "warning": ""
+    },
+    {
+      "rank": 294,
+      "repo": "rsync",
+      "uniques": 0,
+      "views": 0,
+      "sources": 0,
+      "stars": 0,
+      "trend": "",
+      "warning": ""
+    },
+    {
+      "rank": 295,
       "repo": "rust",
       "uniques": 0,
       "views": 0,
@@ -2933,7 +2953,7 @@
       "warning": "master"
     },
     {
-      "rank": 294,
+      "rank": 296,
       "repo": "scrum",
       "uniques": 0,
       "views": 0,
@@ -2943,7 +2963,7 @@
       "warning": "master"
     },
     {
-      "rank": 295,
+      "rank": 297,
       "repo": "secret",
       "uniques": 0,
       "views": 0,
@@ -2953,7 +2973,7 @@
       "warning": ""
     },
     {
-      "rank": 296,
+      "rank": 298,
       "repo": "selecting-the-best-llm",
       "uniques": 0,
       "views": 0,
@@ -2963,7 +2983,7 @@
       "warning": ""
     },
     {
-      "rank": 297,
+      "rank": 299,
       "repo": "shell-programming-standards",
       "uniques": 0,
       "views": 0,
@@ -2973,7 +2993,7 @@
       "warning": ""
     },
     {
-      "rank": 298,
+      "rank": 300,
       "repo": "size-limit",
       "uniques": 0,
       "views": 0,
@@ -2983,7 +3003,7 @@
       "warning": "master"
     },
     {
-      "rank": 299,
+      "rank": 301,
       "repo": "smith.sh",
       "uniques": 0,
       "views": 0,
@@ -2993,7 +3013,7 @@
       "warning": ""
     },
     {
-      "rank": 300,
+      "rank": 302,
       "repo": "springboard",
       "uniques": 0,
       "views": 0,
@@ -3003,7 +3023,7 @@
       "warning": ""
     },
     {
-      "rank": 301,
+      "rank": 303,
       "repo": "ssh.yafb.net",
       "uniques": 0,
       "views": 0,
@@ -3013,7 +3033,7 @@
       "warning": ""
     },
     {
-      "rank": 302,
+      "rank": 304,
       "repo": "suitecrm-gdpr-plugin",
       "uniques": 0,
       "views": 0,
@@ -3023,7 +3043,7 @@
       "warning": "master"
     },
     {
-      "rank": 303,
+      "rank": 305,
       "repo": "tahoe",
       "uniques": 0,
       "views": 0,
@@ -3033,7 +3053,7 @@
       "warning": ""
     },
     {
-      "rank": 304,
+      "rank": 306,
       "repo": "talks",
       "uniques": 0,
       "views": 0,
@@ -3043,7 +3063,7 @@
       "warning": ""
     },
     {
-      "rank": 305,
+      "rank": 307,
       "repo": "term-analysis-manifesto",
       "uniques": 0,
       "views": 0,
@@ -3053,7 +3073,7 @@
       "warning": ""
     },
     {
-      "rank": 306,
+      "rank": 308,
       "repo": "Thaiane",
       "uniques": 0,
       "views": 0,
@@ -3063,7 +3083,7 @@
       "warning": "master"
     },
     {
-      "rank": 307,
+      "rank": 309,
       "repo": "the-art-of-command-line",
       "uniques": 0,
       "views": 0,
@@ -3073,7 +3093,7 @@
       "warning": "master"
     },
     {
-      "rank": 308,
+      "rank": 310,
       "repo": "tolerant-php-parser",
       "uniques": 0,
       "views": 0,
@@ -3083,28 +3103,8 @@
       "warning": ""
     },
     {
-      "rank": 309,
-      "repo": "traffic",
-      "uniques": 0,
-      "views": 0,
-      "sources": 0,
-      "stars": 0,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 310,
-      "repo": "traffic",
-      "uniques": 0,
-      "views": 0,
-      "sources": 0,
-      "stars": 0,
-      "trend": "",
-      "warning": ""
-    },
-    {
       "rank": 311,
-      "repo": "volafacile",
+      "repo": "traffic",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -3114,7 +3114,7 @@
     },
     {
       "rank": 312,
-      "repo": "volafacile.info",
+      "repo": "traffic",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -3124,7 +3124,7 @@
     },
     {
       "rank": 313,
-      "repo": "volta-uninstall",
+      "repo": "volafacile",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -3134,7 +3134,7 @@
     },
     {
       "rank": 314,
-      "repo": "waproxy",
+      "repo": "volafacile.info",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -3144,7 +3144,7 @@
     },
     {
       "rank": 315,
-      "repo": "wbm",
+      "repo": "volta-uninstall",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -3154,7 +3154,7 @@
     },
     {
       "rank": 316,
-      "repo": "webinar.yafb.net",
+      "repo": "waproxy",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -3164,7 +3164,7 @@
     },
     {
       "rank": 317,
-      "repo": "webrequest",
+      "repo": "wbm",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -3174,17 +3174,17 @@
     },
     {
       "rank": 318,
-      "repo": "WikiDocs",
+      "repo": "webinar.yafb.net",
       "uniques": 0,
       "views": 0,
       "sources": 0,
       "stars": 0,
       "trend": "",
-      "warning": "master"
+      "warning": ""
     },
     {
       "rank": 319,
-      "repo": "wrish",
+      "repo": "webrequest",
       "uniques": 0,
       "views": 0,
       "sources": 0,
@@ -3194,6 +3194,26 @@
     },
     {
       "rank": 320,
+      "repo": "WikiDocs",
+      "uniques": 0,
+      "views": 0,
+      "sources": 0,
+      "stars": 0,
+      "trend": "",
+      "warning": "master"
+    },
+    {
+      "rank": 321,
+      "repo": "wrish",
+      "uniques": 0,
+      "views": 0,
+      "sources": 0,
+      "stars": 0,
+      "trend": "",
+      "warning": ""
+    },
+    {
+      "rank": 322,
       "repo": "zub.zig",
       "uniques": 0,
       "views": 0,
