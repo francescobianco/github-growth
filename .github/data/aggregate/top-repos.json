@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03",
+  "generated_at": "2026-05-04",
   "repos": [
     {
       "repo": "seagrass-lang",
@@ -7,12 +7,12 @@
       "uniques": 7
     },
     {
-      "repo": "hardcode.blog",
-      "count": 15,
-      "uniques": 3
+      "repo": "bulk",
+      "count": 14,
+      "uniques": 2
     },
     {
-      "repo": "bulk",
+      "repo": "hardcode.blog",
       "count": 14,
       "uniques": 2
     },
@@ -62,11 +62,6 @@
       "uniques": 3
     },
     {
-      "repo": "pbm",
-      "count": 3,
-      "uniques": 2
-    },
-    {
       "repo": "installer",
       "count": 3,
       "uniques": 1
@@ -88,6 +83,11 @@
     },
     {
       "repo": "apexdomain",
+      "count": 2,
+      "uniques": 1
+    },
+    {
+      "repo": "qchess",
       "count": 2,
       "uniques": 1
     },

@@ -15,13 +15,13 @@
 <rect x="160" y="44" width="270.6666666666667" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="59" text-anchor="end" class="lbl">seagrass-lang</text>
 <text x="746" y="59" class="lbl">15</text>
-<rect x="160" y="72" width="580" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="72" width="116" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="87" text-anchor="end" class="lbl">hardcode.blog</text>
-<text x="746" y="87" class="lbl">15</text>
+<rect x="160" y="72" width="541.3333333333334" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="72" width="77.33333333333333" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="87" text-anchor="end" class="lbl">bulk</text>
+<text x="707.3333333333334" y="87" class="lbl">14</text>
 <rect x="160" y="100" width="541.3333333333334" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="100" width="77.33333333333333" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="115" text-anchor="end" class="lbl">bulk</text>
+<text x="152" y="115" text-anchor="end" class="lbl">hardcode.blog</text>
 <text x="707.3333333333334" y="115" class="lbl">14</text>
 <rect x="160" y="128" width="541.3333333333334" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="128" width="38.666666666666664" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>

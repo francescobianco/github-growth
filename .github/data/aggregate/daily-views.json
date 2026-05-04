@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03",
+  "generated_at": "2026-05-04",
   "days": [
     {
       "date": "2026-03-29",
@@ -113,71 +113,76 @@
     },
     {
       "date": "2026-04-20",
-      "count": 117,
-      "uniques": 117
+      "count": 130,
+      "uniques": 130
     },
     {
       "date": "2026-04-21",
-      "count": 225,
-      "uniques": 81
+      "count": 250,
+      "uniques": 90
     },
     {
       "date": "2026-04-22",
-      "count": 99,
-      "uniques": 45
+      "count": 110,
+      "uniques": 50
     },
     {
       "date": "2026-04-23",
-      "count": 360,
-      "uniques": 108
+      "count": 400,
+      "uniques": 120
     },
     {
       "date": "2026-04-24",
-      "count": 315,
-      "uniques": 72
+      "count": 350,
+      "uniques": 80
     },
     {
       "date": "2026-04-25",
-      "count": 560,
-      "uniques": 63
+      "count": 640,
+      "uniques": 72
     },
     {
       "date": "2026-04-26",
-      "count": 168,
-      "uniques": 63
+      "count": 192,
+      "uniques": 72
     },
     {
       "date": "2026-04-27",
-      "count": 92,
-      "uniques": 28
-    },
-    {
-      "date": "2026-04-28",
-      "count": 8,
-      "uniques": 8
-    },
-    {
-      "date": "2026-04-29",
-      "count": 68,
+      "count": 106,
       "uniques": 32
     },
     {
+      "date": "2026-04-28",
+      "count": 10,
+      "uniques": 10
+    },
+    {
+      "date": "2026-04-29",
+      "count": 85,
+      "uniques": 40
+    },
+    {
       "date": "2026-04-30",
+      "count": 24,
+      "uniques": 24
+    },
+    {
+      "date": "2026-05-01",
       "count": 18,
       "uniques": 18
     },
     {
-      "date": "2026-05-01",
-      "count": 12,
-      "uniques": 12
-    },
-    {
       "date": "2026-05-02",
-      "count": 9,
-      "uniques": 9
+      "count": 18,
+      "uniques": 18
     },
     {
       "date": "2026-05-03",
+      "count": 9,
+      "uniques": 8
+    },
+    {
+      "date": "2026-05-04",
       "count": 0,
       "uniques": 0
     }

@@ -1,0 +1,25 @@
+{
+  "stars": 4,
+  "forks": 0,
+  "watchers": 4,
+  "open_issues": 1,
+  "default_branch": "main",
+  "language": "Shell",
+  "description": "The \"Vintage\" Software Manager",
+  "topics": [
+    "bash",
+    "command-line",
+    "dosbox",
+    "dosemu",
+    "msdos",
+    "msdos-emulator",
+    "package-manager",
+    "retrocomputing",
+    "shell"
+  ],
+  "archived": false,
+  "size_kb": 4122,
+  "created_at": "2021-12-01T17:43:49Z",
+  "updated_at": "2022-12-08T11:39:28Z",
+  "pushed_at": "2021-12-05T21:00:08Z"
+}
