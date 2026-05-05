@@ -1,0 +1,20 @@
+{
+  "stars": 2,
+  "forks": 0,
+  "watchers": 2,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": "Erlang",
+  "description": "Seagrass is a small language that compiles to BEAM and treats sequencing and parallelism as first-class syntax.",
+  "topics": [
+    "beam",
+    "cicd",
+    "erlang",
+    "workflows"
+  ],
+  "archived": false,
+  "size_kb": 90,
+  "created_at": "2026-04-23T21:13:05Z",
+  "updated_at": "2026-04-24T14:13:41Z",
+  "pushed_at": "2026-04-24T07:48:09Z"
+}

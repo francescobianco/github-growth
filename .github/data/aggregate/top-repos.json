@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04",
+  "generated_at": "2026-05-05",
   "repos": [
     {
       "repo": "seagrass-lang",
@@ -27,12 +27,12 @@
       "uniques": 3
     },
     {
-      "repo": "github-traffic",
-      "count": 7,
+      "repo": "github-growth",
+      "count": 6,
       "uniques": 2
     },
     {
-      "repo": "github-growth",
+      "repo": "github-traffic",
       "count": 6,
       "uniques": 2
     },
@@ -57,11 +57,6 @@
       "uniques": 1
     },
     {
-      "repo": "matrix-theme",
-      "count": 3,
-      "uniques": 3
-    },
-    {
       "repo": "installer",
       "count": 3,
       "uniques": 1
@@ -72,7 +67,7 @@
       "uniques": 2
     },
     {
-      "repo": "movegen64",
+      "repo": "matrix-theme",
       "count": 2,
       "uniques": 2
     },
@@ -98,6 +93,11 @@
     },
     {
       "repo": "awesome-shell-1",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "candycane",
       "count": 1,
       "uniques": 1
     }

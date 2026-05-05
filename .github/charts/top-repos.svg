@@ -31,13 +31,13 @@
 <rect x="160" y="156" width="116" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="171" text-anchor="end" class="lbl">define</text>
 <text x="475.3333333333333" y="171" class="lbl">8</text>
-<rect x="160" y="184" width="270.6666666666667" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="184" width="232" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="184" width="77.33333333333333" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="199" text-anchor="end" class="lbl">github-traffic</text>
-<text x="436.6666666666667" y="199" class="lbl">7</text>
+<text x="152" y="199" text-anchor="end" class="lbl">github-growth</text>
+<text x="398" y="199" class="lbl">6</text>
 <rect x="160" y="212" width="232" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="212" width="77.33333333333333" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="227" text-anchor="end" class="lbl">github-growth</text>
+<text x="152" y="227" text-anchor="end" class="lbl">github-traffic</text>
 <text x="398" y="227" class="lbl">6</text>
 <rect x="160" y="240" width="232" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="240" width="38.666666666666664" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
