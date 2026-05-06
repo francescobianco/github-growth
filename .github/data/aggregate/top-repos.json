@@ -1,25 +1,20 @@
 {
-  "generated_at": "2026-05-05",
+  "generated_at": "2026-05-06",
   "repos": [
+    {
+      "repo": "bulk",
+      "count": 16,
+      "uniques": 2
+    },
     {
       "repo": "seagrass-lang",
       "count": 15,
       "uniques": 7
     },
     {
-      "repo": "bulk",
-      "count": 14,
-      "uniques": 2
-    },
-    {
       "repo": "hardcode.blog",
       "count": 14,
       "uniques": 2
-    },
-    {
-      "repo": "mush-packages",
-      "count": 14,
-      "uniques": 1
     },
     {
       "repo": "define",
@@ -28,8 +23,13 @@
     },
     {
       "repo": "github-growth",
-      "count": 6,
+      "count": 7,
       "uniques": 2
+    },
+    {
+      "repo": "waproxy",
+      "count": 7,
+      "uniques": 1
     },
     {
       "repo": "github-traffic",
@@ -52,6 +52,11 @@
       "uniques": 1
     },
     {
+      "repo": "mush-packages",
+      "count": 5,
+      "uniques": 1
+    },
+    {
       "repo": "salt",
       "count": 5,
       "uniques": 1
@@ -62,27 +67,17 @@
       "uniques": 1
     },
     {
-      "repo": "idea",
-      "count": 2,
-      "uniques": 2
-    },
-    {
       "repo": "matrix-theme",
       "count": 2,
       "uniques": 2
     },
     {
-      "repo": "openelo",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "repo": "apexdomain",
+      "repo": "qchess",
       "count": 2,
       "uniques": 1
     },
     {
-      "repo": "qchess",
+      "repo": "sftpgo",
       "count": 2,
       "uniques": 1
     },
@@ -98,6 +93,11 @@
     },
     {
       "repo": "candycane",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "elementi-di-strategia-negli-scacchi-moderni",
       "count": 1,
       "uniques": 1
     }
