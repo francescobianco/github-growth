@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06",
+  "generated_at": "2026-05-07",
   "repos": [
     {
       "repo": "bulk",
@@ -15,11 +15,6 @@
       "repo": "hardcode.blog",
       "count": 14,
       "uniques": 2
-    },
-    {
-      "repo": "define",
-      "count": 8,
-      "uniques": 3
     },
     {
       "repo": "github-growth",
@@ -62,9 +57,19 @@
       "uniques": 1
     },
     {
+      "repo": "define",
+      "count": 4,
+      "uniques": 1
+    },
+    {
       "repo": "installer",
       "count": 3,
       "uniques": 1
+    },
+    {
+      "repo": "krudo64",
+      "count": 2,
+      "uniques": 2
     },
     {
       "repo": "matrix-theme",
@@ -93,11 +98,6 @@
     },
     {
       "repo": "candycane",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "elementi-di-strategia-negli-scacchi-moderni",
       "count": 1,
       "uniques": 1
     }
