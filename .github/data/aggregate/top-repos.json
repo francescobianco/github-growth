@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07",
+  "generated_at": "2026-05-08",
   "repos": [
     {
       "repo": "bulk",
@@ -8,13 +8,8 @@
     },
     {
       "repo": "seagrass-lang",
-      "count": 15,
-      "uniques": 7
-    },
-    {
-      "repo": "hardcode.blog",
       "count": 14,
-      "uniques": 2
+      "uniques": 6
     },
     {
       "repo": "github-growth",
@@ -30,11 +25,6 @@
       "repo": "github-traffic",
       "count": 6,
       "uniques": 2
-    },
-    {
-      "repo": "acc",
-      "count": 6,
-      "uniques": 1
     },
     {
       "repo": "squaresense",
@@ -57,8 +47,13 @@
       "uniques": 1
     },
     {
-      "repo": "define",
+      "repo": "redit",
       "count": 4,
+      "uniques": 1
+    },
+    {
+      "repo": "bashcov",
+      "count": 3,
       "uniques": 1
     },
     {
@@ -68,11 +63,6 @@
     },
     {
       "repo": "krudo64",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "repo": "matrix-theme",
       "count": 2,
       "uniques": 2
     },
@@ -87,17 +77,27 @@
       "uniques": 1
     },
     {
-      "repo": "tpkg",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "repo": "awesome-shell-1",
       "count": 1,
       "uniques": 1
     },
     {
       "repo": "candycane",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "elementi-di-strategia-negli-scacchi-moderni",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "github.yafb.net",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "hardcode.blog",
       "count": 1,
       "uniques": 1
     }

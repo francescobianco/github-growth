@@ -1,0 +1,27 @@
+{
+  "stars": 0,
+  "forks": 0,
+  "watchers": 0,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": "Zig",
+  "description": "Zig-native installer for Zig binaries published in the ZUB registry.",
+  "topics": [
+    "linux",
+    "macos",
+    "package-index",
+    "package-manager",
+    "ubuntu",
+    "version-manager",
+    "windows",
+    "zig",
+    "zig-cli",
+    "zig-package",
+    "ziglang"
+  ],
+  "archived": false,
+  "size_kb": 24,
+  "created_at": "2026-04-10T20:14:56Z",
+  "updated_at": "2026-04-16T10:35:25Z",
+  "pushed_at": "2026-04-16T10:35:22Z"
+}

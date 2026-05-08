@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07",
+  "generated_at": "2026-05-08",
   "days": [
     {
       "date": "2026-03-29",
@@ -128,78 +128,78 @@
     },
     {
       "date": "2026-04-23",
-      "count": 520,
-      "uniques": 156
+      "count": 521,
+      "uniques": 157
     },
     {
       "date": "2026-04-24",
-      "count": 455,
-      "uniques": 104
+      "count": 490,
+      "uniques": 112
     },
     {
       "date": "2026-04-25",
-      "count": 880,
-      "uniques": 99
+      "count": 960,
+      "uniques": 108
     },
     {
       "date": "2026-04-26",
-      "count": 264,
-      "uniques": 99
+      "count": 288,
+      "uniques": 108
     },
     {
       "date": "2026-04-27",
-      "count": 148,
-      "uniques": 44
+      "count": 162,
+      "uniques": 48
     },
     {
       "date": "2026-04-28",
-      "count": 16,
-      "uniques": 16
+      "count": 18,
+      "uniques": 18
     },
     {
       "date": "2026-04-29",
-      "count": 136,
-      "uniques": 64
+      "count": 153,
+      "uniques": 72
     },
     {
       "date": "2026-04-30",
+      "count": 48,
+      "uniques": 48
+    },
+    {
+      "date": "2026-05-01",
       "count": 42,
       "uniques": 42
     },
     {
-      "date": "2026-05-01",
-      "count": 36,
-      "uniques": 36
-    },
-    {
       "date": "2026-05-02",
-      "count": 45,
-      "uniques": 45
+      "count": 54,
+      "uniques": 54
     },
     {
       "date": "2026-05-03",
-      "count": 36,
-      "uniques": 32
+      "count": 45,
+      "uniques": 40
     },
     {
       "date": "2026-05-04",
-      "count": 3,
-      "uniques": 3
+      "count": 4,
+      "uniques": 4
     },
     {
       "date": "2026-05-05",
-      "count": 26,
-      "uniques": 10
+      "count": 39,
+      "uniques": 15
     },
     {
       "date": "2026-05-06",
-      "count": 3,
-      "uniques": 3
+      "count": 6,
+      "uniques": 6
     },
     {
       "date": "2026-05-07",
-      "count": 0,
-      "uniques": 0
+      "count": 10,
+      "uniques": 6
     }
   ]
 }
