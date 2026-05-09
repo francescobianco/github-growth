@@ -1,15 +1,10 @@
 {
-  "generated_at": "2026-05-08",
+  "generated_at": "2026-05-09",
   "repos": [
     {
       "repo": "bulk",
       "count": 16,
       "uniques": 2
-    },
-    {
-      "repo": "seagrass-lang",
-      "count": 14,
-      "uniques": 6
     },
     {
       "repo": "github-growth",
@@ -20,11 +15,6 @@
       "repo": "waproxy",
       "count": 7,
       "uniques": 1
-    },
-    {
-      "repo": "github-traffic",
-      "count": 6,
-      "uniques": 2
     },
     {
       "repo": "squaresense",
@@ -53,6 +43,11 @@
     },
     {
       "repo": "bashcov",
+      "count": 3,
+      "uniques": 1
+    },
+    {
+      "repo": "github-traffic",
       "count": 3,
       "uniques": 1
     },
@@ -97,7 +92,12 @@
       "uniques": 1
     },
     {
-      "repo": "hardcode.blog",
+      "repo": "matrix-theme",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "open-webui-cli",
       "count": 1,
       "uniques": 1
     }

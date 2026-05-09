@@ -1,0 +1,15 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "master",
+  "language": null,
+  "description": "Official PHP client for Elasticsearch.",
+  "topics": [],
+  "archived": false,
+  "size_kb": 9218,
+  "created_at": "2022-08-03T14:53:56Z",
+  "updated_at": "2023-03-04T01:56:48Z",
+  "pushed_at": "2022-08-03T14:30:52Z"
+}

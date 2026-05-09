@@ -15,42 +15,42 @@
 <rect x="160" y="44" width="72.5" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="59" text-anchor="end" class="lbl">bulk</text>
 <text x="746" y="59" class="lbl">16</text>
-<rect x="160" y="72" width="507.5" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="72" width="217.5" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="87" text-anchor="end" class="lbl">seagrass-lang</text>
-<text x="673.5" y="87" class="lbl">14</text>
+<rect x="160" y="72" width="253.75" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="72" width="72.5" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="87" text-anchor="end" class="lbl">github-growth</text>
+<text x="419.75" y="87" class="lbl">7</text>
 <rect x="160" y="100" width="253.75" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="100" width="72.5" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="115" text-anchor="end" class="lbl">github-growth</text>
+<rect x="160" y="100" width="36.25" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="115" text-anchor="end" class="lbl">waproxy</text>
 <text x="419.75" y="115" class="lbl">7</text>
-<rect x="160" y="128" width="253.75" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="128" width="217.5" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="128" width="36.25" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="143" text-anchor="end" class="lbl">waproxy</text>
-<text x="419.75" y="143" class="lbl">7</text>
-<rect x="160" y="156" width="217.5" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="156" width="72.5" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="171" text-anchor="end" class="lbl">github-traffic</text>
-<text x="383.5" y="171" class="lbl">6</text>
-<rect x="160" y="184" width="217.5" height="22" fill="#58a6ff" rx="3"/>
+<text x="152" y="143" text-anchor="end" class="lbl">squaresense</text>
+<text x="383.5" y="143" class="lbl">6</text>
+<rect x="160" y="156" width="181.25" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="156" width="36.25" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="171" text-anchor="end" class="lbl">hostrun</text>
+<text x="347.25" y="171" class="lbl">5</text>
+<rect x="160" y="184" width="181.25" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="184" width="36.25" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="199" text-anchor="end" class="lbl">squaresense</text>
-<text x="383.5" y="199" class="lbl">6</text>
+<text x="152" y="199" text-anchor="end" class="lbl">mush-packages</text>
+<text x="347.25" y="199" class="lbl">5</text>
 <rect x="160" y="212" width="181.25" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="212" width="36.25" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="227" text-anchor="end" class="lbl">hostrun</text>
+<text x="152" y="227" text-anchor="end" class="lbl">salt</text>
 <text x="347.25" y="227" class="lbl">5</text>
-<rect x="160" y="240" width="181.25" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="240" width="145" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="240" width="36.25" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="255" text-anchor="end" class="lbl">mush-packages</text>
-<text x="347.25" y="255" class="lbl">5</text>
-<rect x="160" y="268" width="181.25" height="22" fill="#58a6ff" rx="3"/>
+<text x="152" y="255" text-anchor="end" class="lbl">redit</text>
+<text x="311" y="255" class="lbl">4</text>
+<rect x="160" y="268" width="108.75" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="268" width="36.25" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="283" text-anchor="end" class="lbl">salt</text>
-<text x="347.25" y="283" class="lbl">5</text>
-<rect x="160" y="296" width="145" height="22" fill="#58a6ff" rx="3"/>
+<text x="152" y="283" text-anchor="end" class="lbl">bashcov</text>
+<text x="274.75" y="283" class="lbl">3</text>
+<rect x="160" y="296" width="108.75" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="296" width="36.25" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="311" text-anchor="end" class="lbl">redit</text>
-<text x="311" y="311" class="lbl">4</text>
+<text x="152" y="311" text-anchor="end" class="lbl">github-traffic</text>
+<text x="274.75" y="311" class="lbl">3</text>
 <rect x="160" y="340" width="12" height="8" fill="#58a6ff"   rx="1"/>
 <text x="176" y="348" class="lbl">Views</text>
 <rect x="226" y="340" width="12" height="8" fill="#3fb950" rx="1" opacity="0.85"/>
