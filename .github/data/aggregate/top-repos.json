@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-05-10",
+  "generated_at": "2026-05-11",
   "repos": [
     {
       "repo": "bulk",
-      "count": 16,
-      "uniques": 2
+      "count": 12,
+      "uniques": 1
     },
     {
       "repo": "waproxy",
@@ -12,18 +12,13 @@
       "uniques": 1
     },
     {
+      "repo": "redit",
+      "count": 6,
+      "uniques": 2
+    },
+    {
       "repo": "squaresense",
       "count": 6,
-      "uniques": 1
-    },
-    {
-      "repo": "hostrun",
-      "count": 5,
-      "uniques": 1
-    },
-    {
-      "repo": "redit",
-      "count": 5,
       "uniques": 1
     },
     {
@@ -38,6 +33,11 @@
     },
     {
       "repo": "krudo64",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "repo": "matrix-theme",
       "count": 2,
       "uniques": 2
     },
@@ -72,12 +72,12 @@
       "uniques": 1
     },
     {
-      "repo": "github.yafb.net",
+      "repo": "github-traffic",
       "count": 1,
       "uniques": 1
     },
     {
-      "repo": "matrix-theme",
+      "repo": "hostrun",
       "count": 1,
       "uniques": 1
     },
