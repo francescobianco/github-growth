@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-05-11",
+  "generated_at": "2026-05-12",
   "repos": [
-    {
-      "repo": "bulk",
-      "count": 12,
-      "uniques": 1
-    },
     {
       "repo": "waproxy",
       "count": 7,
@@ -42,7 +37,7 @@
       "uniques": 2
     },
     {
-      "repo": "github-growth",
+      "repo": "bulk",
       "count": 2,
       "uniques": 1
     },
@@ -72,6 +67,11 @@
       "uniques": 1
     },
     {
+      "repo": "github-growth",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "repo": "github-traffic",
       "count": 1,
       "uniques": 1
@@ -92,12 +92,12 @@
       "uniques": 1
     },
     {
-      "repo": "seagrass-lang",
-      "count": 1,
-      "uniques": 1
+      "repo": "info",
+      "count": 0,
+      "uniques": 0
     },
     {
-      "repo": "info",
+      "repo": "paths",
       "count": 0,
       "uniques": 0
     }
