@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13",
+  "generated_at": "2026-05-14",
   "repos": [
     {
       "repo": "waproxy",
@@ -12,14 +12,9 @@
       "uniques": 2
     },
     {
-      "repo": "squaresense",
-      "count": 6,
-      "uniques": 1
-    },
-    {
-      "repo": "salt",
-      "count": 5,
-      "uniques": 1
+      "repo": "opencola",
+      "count": 3,
+      "uniques": 2
     },
     {
       "repo": "bashcov",
@@ -97,7 +92,12 @@
       "uniques": 1
     },
     {
-      "repo": "hostrun",
+      "repo": "kipo",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "open-webui-cli",
       "count": 1,
       "uniques": 1
     }
