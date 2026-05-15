@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14",
+  "generated_at": "2026-05-15",
   "days": [
     {
       "date": "2026-03-29",
@@ -168,68 +168,78 @@
     },
     {
       "date": "2026-05-01",
-      "count": 78,
-      "uniques": 78
+      "count": 84,
+      "uniques": 84
     },
     {
       "date": "2026-05-02",
-      "count": 108,
-      "uniques": 108
+      "count": 117,
+      "uniques": 117
     },
     {
       "date": "2026-05-03",
-      "count": 99,
-      "uniques": 88
+      "count": 108,
+      "uniques": 96
     },
     {
       "date": "2026-05-04",
-      "count": 10,
-      "uniques": 10
+      "count": 11,
+      "uniques": 11
     },
     {
       "date": "2026-05-05",
-      "count": 117,
-      "uniques": 45
+      "count": 130,
+      "uniques": 50
     },
     {
       "date": "2026-05-06",
-      "count": 24,
-      "uniques": 24
+      "count": 27,
+      "uniques": 27
     },
     {
       "date": "2026-05-07",
-      "count": 70,
-      "uniques": 42
+      "count": 80,
+      "uniques": 48
     },
     {
       "date": "2026-05-08",
-      "count": 30,
-      "uniques": 18
+      "count": 35,
+      "uniques": 21
     },
     {
       "date": "2026-05-09",
-      "count": 45,
-      "uniques": 25
+      "count": 54,
+      "uniques": 30
     },
     {
       "date": "2026-05-10",
-      "count": 60,
-      "uniques": 60
+      "count": 75,
+      "uniques": 75
     },
     {
       "date": "2026-05-11",
-      "count": 3,
-      "uniques": 3
+      "count": 4,
+      "uniques": 4
     },
     {
       "date": "2026-05-12",
-      "count": 34,
-      "uniques": 22
+      "count": 51,
+      "uniques": 33
     },
     {
       "date": "2026-05-13",
-      "count": 9,
-      "uniques": 4
+      "count": 18,
+      "uniques": 8
+    },
+    {
+      "date": "2026-05-14",
+      "count": 6,
+      "uniques": 2
+    },
+    {
+      "date": "2026-05-15",
+      "count": 0,
+      "uniques": 0
     }
   ]
 }

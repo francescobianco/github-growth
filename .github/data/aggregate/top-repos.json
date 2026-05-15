@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14",
+  "generated_at": "2026-05-15",
   "repos": [
     {
       "repo": "waproxy",
@@ -10,6 +10,11 @@
       "repo": "redit",
       "count": 6,
       "uniques": 2
+    },
+    {
+      "repo": "php-imap2-demo",
+      "count": 5,
+      "uniques": 1
     },
     {
       "repo": "opencola",
@@ -72,16 +77,6 @@
       "uniques": 1
     },
     {
-      "repo": "candycane",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "elementi-di-strategia-negli-scacchi-moderni",
-      "count": 1,
-      "uniques": 1
-    },
-    {
       "repo": "git-popper",
       "count": 1,
       "uniques": 1
@@ -98,6 +93,11 @@
     },
     {
       "repo": "open-webui-cli",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "polimar",
       "count": 1,
       "uniques": 1
     }
