@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-15",
+  "generated_at": "2026-05-16",
   "repos": [
+    {
+      "repo": "redit",
+      "count": 7,
+      "uniques": 2
+    },
     {
       "repo": "waproxy",
       "count": 7,
       "uniques": 1
-    },
-    {
-      "repo": "redit",
-      "count": 6,
-      "uniques": 2
     },
     {
       "repo": "php-imap2-demo",
@@ -57,6 +57,11 @@
       "uniques": 1
     },
     {
+      "repo": "crazy-nats",
+      "count": 2,
+      "uniques": 1
+    },
+    {
       "repo": "docker-entrypoint.sh",
       "count": 2,
       "uniques": 1
@@ -77,6 +82,11 @@
       "uniques": 1
     },
     {
+      "repo": "agent0",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "repo": "git-popper",
       "count": 1,
       "uniques": 1
@@ -88,16 +98,6 @@
     },
     {
       "repo": "kipo",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "open-webui-cli",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "polimar",
       "count": 1,
       "uniques": 1
     }
