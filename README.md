@@ -25,14 +25,14 @@
 | 12 | [docker-entrypoint.sh](https://github.com/francescobianco/docker-entrypoint.sh) | 1 | 2 | 1 | 1 |  |
 | 13 | [podman-security-bench](https://github.com/francescobianco/podman-security-bench) | 1 | 2 | 1 | 1 |  |
 | 14 | [sftpgo](https://github.com/francescobianco/sftpgo) | 1 | 2 | 1 | 1 |  |
-| 15 | [crazy-nats](https://github.com/francescobianco/crazy-nats) | 1 | 2 | 1 | 0 | 🟩 |
-| 16 | [qchess](https://github.com/francescobianco/qchess) | 1 | 2 | 1 | 0 | 🟥 |
-| 17 | [git-popper](https://github.com/francescobianco/git-popper) | 1 | 1 | 1 | 1 | 🟥 |
-| 18 | [github-growth](https://github.com/francescobianco/github-growth) | 1 | 1 | 1 | 1 | 🟥 |
-| 19 | [kipo](https://github.com/francescobianco/kipo) | 1 | 1 | 1 | 1 | 🟥 |
-| 20 | [open-webui-cli](https://github.com/francescobianco/open-webui-cli) | 1 | 1 | 1 | 1 | 🟥 |
-| 21 | [agent0](https://github.com/francescobianco/agent0) | 1 | 1 | 1 | 0 | 🟩 |
-| 22 | [polimar](https://github.com/francescobianco/polimar) | 1 | 1 | 1 | 0 | 🟥 |
+| 15 | [crazy-nats](https://github.com/francescobianco/crazy-nats) | 1 | 2 | 1 | 0 |  |
+| 16 | [qchess](https://github.com/francescobianco/qchess) | 1 | 2 | 1 | 0 |  |
+| 17 | [git-popper](https://github.com/francescobianco/git-popper) | 1 | 1 | 1 | 1 |  |
+| 18 | [github-growth](https://github.com/francescobianco/github-growth) | 1 | 1 | 1 | 1 |  |
+| 19 | [kipo](https://github.com/francescobianco/kipo) | 1 | 1 | 1 | 1 |  |
+| 20 | [open-webui-cli](https://github.com/francescobianco/open-webui-cli) | 1 | 1 | 1 | 1 |  |
+| 21 | [agent0](https://github.com/francescobianco/agent0) | 1 | 1 | 1 | 0 |  |
+| 22 | [polimar](https://github.com/francescobianco/polimar) | 1 | 1 | 1 | 0 |  |
 | 23 | [shell-output-guidelines](https://github.com/francescobianco/shell-output-guidelines) | 0 | 0 | 0 | 10 |  |
 | 24 | [hookpool](https://github.com/francescobianco/hookpool) | 0 | 0 | 0 | 4 |  |
 | 25 | [vintage](https://github.com/francescobianco/vintage) | 0 | 0 | 0 | 4 |  |
