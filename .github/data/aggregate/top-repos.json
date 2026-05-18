@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-05-17",
+  "generated_at": "2026-05-18",
   "repos": [
-    {
-      "repo": "redit",
-      "count": 7,
-      "uniques": 2
-    },
     {
       "repo": "waproxy",
       "count": 7,
       "uniques": 1
+    },
+    {
+      "repo": "redit",
+      "count": 6,
+      "uniques": 2
     },
     {
       "repo": "php-imap2-demo",
@@ -72,11 +72,6 @@
       "uniques": 1
     },
     {
-      "repo": "qchess",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "repo": "sftpgo",
       "count": 2,
       "uniques": 1
@@ -93,6 +88,11 @@
     },
     {
       "repo": "github-growth",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "hookpool",
       "count": 1,
       "uniques": 1
     },
