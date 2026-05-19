@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "repos": [
     {
       "repo": "waproxy",
@@ -33,6 +33,11 @@
     },
     {
       "repo": "github-traffic",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "repo": "hookpool",
       "count": 2,
       "uniques": 2
     },
@@ -82,22 +87,17 @@
       "uniques": 1
     },
     {
+      "repo": "btproxy.old",
+      "count": 1,
+      "uniques": 1
+    },
+    {
       "repo": "git-popper",
       "count": 1,
       "uniques": 1
     },
     {
       "repo": "github-growth",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "hookpool",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "kipo",
       "count": 1,
       "uniques": 1
     }

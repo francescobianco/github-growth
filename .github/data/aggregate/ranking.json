@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "owner": "francescobianco",
   "repos": [
     {
@@ -24,206 +24,216 @@
     },
     {
       "rank": 3,
-      "repo": "github-traffic",
-      "uniques": 2,
-      "views": 2,
-      "sources": 1,
-      "stars": 4,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 4,
-      "repo": "matrix-theme",
-      "uniques": 2,
-      "views": 2,
-      "sources": 1,
-      "stars": 4,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 5,
-      "repo": "php-imap-client",
-      "uniques": 2,
-      "views": 2,
-      "sources": 1,
-      "stars": 1,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 6,
-      "repo": "krudo64",
-      "uniques": 2,
-      "views": 2,
-      "sources": 1,
-      "stars": 0,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 7,
-      "repo": "waproxy",
-      "uniques": 1,
-      "views": 7,
-      "sources": 1,
-      "stars": 1,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 8,
-      "repo": "php-imap2-demo",
-      "uniques": 1,
-      "views": 5,
-      "sources": 1,
-      "stars": 1,
-      "trend": "",
-      "warning": "master"
-    },
-    {
-      "rank": 9,
-      "repo": "oauth2playground",
-      "uniques": 1,
-      "views": 3,
-      "sources": 1,
-      "stars": 1,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 10,
-      "repo": "bashcov",
-      "uniques": 1,
-      "views": 3,
-      "sources": 1,
-      "stars": 0,
-      "trend": "",
-      "warning": "master"
-    },
-    {
-      "rank": 11,
-      "repo": "bulk",
-      "uniques": 1,
-      "views": 2,
-      "sources": 1,
-      "stars": 1,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 12,
-      "repo": "docker-entrypoint.sh",
-      "uniques": 1,
-      "views": 2,
-      "sources": 1,
-      "stars": 1,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 13,
-      "repo": "podman-security-bench",
-      "uniques": 1,
-      "views": 2,
-      "sources": 1,
-      "stars": 1,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 14,
-      "repo": "sftpgo",
-      "uniques": 1,
-      "views": 2,
-      "sources": 1,
-      "stars": 1,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 15,
-      "repo": "crazy-nats",
-      "uniques": 1,
-      "views": 2,
-      "sources": 1,
-      "stars": 0,
-      "trend": "",
-      "warning": ""
-    },
-    {
-      "rank": 16,
       "repo": "hookpool",
-      "uniques": 1,
-      "views": 1,
-      "sources": 1,
+      "uniques": 2,
+      "views": 2,
+      "sources": 2,
       "stars": 4,
       "trend": "🟩",
       "warning": ""
     },
     {
+      "rank": 4,
+      "repo": "github-traffic",
+      "uniques": 2,
+      "views": 2,
+      "sources": 1,
+      "stars": 4,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 5,
+      "repo": "matrix-theme",
+      "uniques": 2,
+      "views": 2,
+      "sources": 1,
+      "stars": 4,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 6,
+      "repo": "php-imap-client",
+      "uniques": 2,
+      "views": 2,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 7,
+      "repo": "krudo64",
+      "uniques": 2,
+      "views": 2,
+      "sources": 1,
+      "stars": 0,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 8,
+      "repo": "waproxy",
+      "uniques": 1,
+      "views": 7,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 9,
+      "repo": "php-imap2-demo",
+      "uniques": 1,
+      "views": 5,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟥",
+      "warning": "master"
+    },
+    {
+      "rank": 10,
+      "repo": "oauth2playground",
+      "uniques": 1,
+      "views": 3,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 11,
+      "repo": "bashcov",
+      "uniques": 1,
+      "views": 3,
+      "sources": 1,
+      "stars": 0,
+      "trend": "🟥",
+      "warning": "master"
+    },
+    {
+      "rank": 12,
+      "repo": "bulk",
+      "uniques": 1,
+      "views": 2,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 13,
+      "repo": "docker-entrypoint.sh",
+      "uniques": 1,
+      "views": 2,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 14,
+      "repo": "podman-security-bench",
+      "uniques": 1,
+      "views": 2,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 15,
+      "repo": "sftpgo",
+      "uniques": 1,
+      "views": 2,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
+      "rank": 16,
+      "repo": "crazy-nats",
+      "uniques": 1,
+      "views": 2,
+      "sources": 1,
+      "stars": 0,
+      "trend": "🟥",
+      "warning": ""
+    },
+    {
       "rank": 17,
+      "repo": "btproxy.old",
+      "uniques": 1,
+      "views": 1,
+      "sources": 1,
+      "stars": 1,
+      "trend": "🟩",
+      "warning": ""
+    },
+    {
+      "rank": 18,
       "repo": "git-popper",
       "uniques": 1,
       "views": 1,
       "sources": 1,
       "stars": 1,
-      "trend": "",
+      "trend": "🟥",
       "warning": ""
     },
     {
-      "rank": 18,
+      "rank": 19,
       "repo": "github-growth",
       "uniques": 1,
       "views": 1,
       "sources": 1,
       "stars": 1,
-      "trend": "",
+      "trend": "🟥",
       "warning": ""
     },
     {
-      "rank": 19,
+      "rank": 20,
       "repo": "kipo",
       "uniques": 1,
       "views": 1,
       "sources": 1,
       "stars": 1,
-      "trend": "",
+      "trend": "🟥",
       "warning": ""
     },
     {
-      "rank": 20,
+      "rank": 21,
       "repo": "open-webui-cli",
       "uniques": 1,
       "views": 1,
       "sources": 1,
       "stars": 1,
-      "trend": "",
+      "trend": "🟥",
       "warning": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "repo": "agent0",
       "uniques": 1,
       "views": 1,
       "sources": 1,
       "stars": 0,
-      "trend": "",
+      "trend": "🟥",
       "warning": ""
     },
     {
-      "rank": 22,
+      "rank": 23,
       "repo": "polimar",
       "uniques": 1,
       "views": 1,
       "sources": 1,
       "stars": 0,
-      "trend": "",
+      "trend": "🟥",
       "warning": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "repo": "shell-output-guidelines",
       "uniques": 0,
       "views": 0,
@@ -233,7 +243,7 @@
       "warning": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "repo": "vintage",
       "uniques": 0,
       "views": 0,
@@ -243,7 +253,7 @@
       "warning": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "repo": "blackbox",
       "uniques": 0,
       "views": 0,
@@ -253,7 +263,7 @@
       "warning": ""
     },
     {
-      "rank": 26,
+      "rank": 27,
       "repo": "jekyll-html-pages",
       "uniques": 0,
       "views": 0,
@@ -263,7 +273,7 @@
       "warning": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "repo": "rtail",
       "uniques": 0,
       "views": 0,
@@ -273,7 +283,7 @@
       "warning": "master"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "repo": "seagrass-lang",
       "uniques": 0,
       "views": 0,
@@ -283,7 +293,7 @@
       "warning": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "repo": "agentgrid",
       "uniques": 0,
       "views": 0,
@@ -293,7 +303,7 @@
       "warning": ""
     },
     {
-      "rank": 30,
+      "rank": 31,
       "repo": "assets",
       "uniques": 0,
       "views": 0,
@@ -303,7 +313,7 @@
       "warning": ""
     },
     {
-      "rank": 31,
+      "rank": 32,
       "repo": "cheshire-cat",
       "uniques": 0,
       "views": 0,
@@ -313,7 +323,7 @@
       "warning": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
       "repo": "chess-stamp-history",
       "uniques": 0,
       "views": 0,
@@ -323,7 +333,7 @@
       "warning": ""
     },
     {
-      "rank": 33,
+      "rank": 34,
       "repo": "francesco-bianco-speaker.yafb.net",
       "uniques": 0,
       "views": 0,
@@ -333,7 +343,7 @@
       "warning": "master"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "repo": "github.yafb.net",
       "uniques": 0,
       "views": 0,
@@ -343,7 +353,7 @@
       "warning": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "repo": "hardcode.blog",
       "uniques": 0,
       "views": 0,
@@ -353,7 +363,7 @@
       "warning": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "repo": "json-grid-syntax",
       "uniques": 0,
       "views": 0,
@@ -363,7 +373,7 @@
       "warning": ""
     },
     {
-      "rank": 37,
+      "rank": 38,
       "repo": "lastchanges",
       "uniques": 0,
       "views": 0,
@@ -373,7 +383,7 @@
       "warning": ""
     },
     {
-      "rank": 38,
+      "rank": 39,
       "repo": "linkedin.sh",
       "uniques": 0,
       "views": 0,
@@ -383,7 +393,7 @@
       "warning": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "repo": "openelo",
       "uniques": 0,
       "views": 0,
@@ -393,7 +403,7 @@
       "warning": ""
     },
     {
-      "rank": 40,
+      "rank": 41,
       "repo": "profile-check",
       "uniques": 0,
       "views": 0,
@@ -403,7 +413,7 @@
       "warning": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
       "repo": "qbasic",
       "uniques": 0,
       "views": 0,
@@ -413,7 +423,7 @@
       "warning": "master"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "repo": "techfeed",
       "uniques": 0,
       "views": 0,
@@ -423,7 +433,7 @@
       "warning": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "repo": "acurl",
       "uniques": 0,
       "views": 0,
@@ -433,7 +443,7 @@
       "warning": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "repo": "aeterna",
       "uniques": 0,
       "views": 0,
@@ -443,7 +453,7 @@
       "warning": ""
     },
     {
-      "rank": 45,
+      "rank": 46,
       "repo": "age-of-developers",
       "uniques": 0,
       "views": 0,
@@ -453,7 +463,7 @@
       "warning": ""
     },
     {
-      "rank": 46,
+      "rank": 47,
       "repo": "agentcontainer",
       "uniques": 0,
       "views": 0,
@@ -463,7 +473,7 @@
       "warning": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "repo": "alphabetor",
       "uniques": 0,
       "views": 0,
@@ -473,7 +483,7 @@
       "warning": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "repo": "arxiv",
       "uniques": 0,
       "views": 0,
@@ -483,7 +493,7 @@
       "warning": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "repo": "awesome-api",
       "uniques": 0,
       "views": 0,
@@ -493,7 +503,7 @@
       "warning": "master"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "repo": "awesome-bash",
       "uniques": 0,
       "views": 0,
@@ -503,7 +513,7 @@
       "warning": "master"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "repo": "awesome-documentation-tools",
       "uniques": 0,
       "views": 0,
@@ -513,7 +523,7 @@
       "warning": "master"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "repo": "awesome-italia-opensource",
       "uniques": 0,
       "views": 0,
@@ -523,7 +533,7 @@
       "warning": ""
     },
     {
-      "rank": 53,
+      "rank": 54,
       "repo": "awesome-nocode-lowcode-1",
       "uniques": 0,
       "views": 0,
@@ -533,7 +543,7 @@
       "warning": ""
     },
     {
-      "rank": 54,
+      "rank": 55,
       "repo": "awesome-openapi3",
       "uniques": 0,
       "views": 0,
@@ -543,7 +553,7 @@
       "warning": "master"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "repo": "awesome-php",
       "uniques": 0,
       "views": 0,
@@ -553,7 +563,7 @@
       "warning": "master"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "repo": "awesome-rest",
       "uniques": 0,
       "views": 0,
@@ -563,7 +573,7 @@
       "warning": "master"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "repo": "awesome-shell",
       "uniques": 0,
       "views": 0,
@@ -573,7 +583,7 @@
       "warning": "master"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "repo": "awesome-shell-1",
       "uniques": 0,
       "views": 0,
@@ -583,7 +593,7 @@
       "warning": "master"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "repo": "awesome-swagger",
       "uniques": 0,
       "views": 0,
@@ -593,7 +603,7 @@
       "warning": "master"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "repo": "awesome-swagger-1",
       "uniques": 0,
       "views": 0,
@@ -603,7 +613,7 @@
       "warning": "master"
     },
     {
-      "rank": 61,
+      "rank": 62,
       "repo": "awesome-term-analysis",
       "uniques": 0,
       "views": 0,
@@ -613,7 +623,7 @@
       "warning": ""
     },
     {
-      "rank": 62,
+      "rank": 63,
       "repo": "awesome-vtiger",
       "uniques": 0,
       "views": 0,
@@ -623,7 +633,7 @@
       "warning": ""
     },
     {
-      "rank": 63,
+      "rank": 64,
       "repo": "awesome-yaml",
       "uniques": 0,
       "views": 0,
@@ -633,7 +643,7 @@
       "warning": "master"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "repo": "awesome-yaml-1",
       "uniques": 0,
       "views": 0,
@@ -643,7 +653,7 @@
       "warning": "master"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "repo": "aws-sdk-php-laravel",
       "uniques": 0,
       "views": 0,
@@ -653,7 +663,7 @@
       "warning": "master"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "repo": "beautiful-jekyll",
       "uniques": 0,
       "views": 0,
@@ -663,7 +673,7 @@
       "warning": "master"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "repo": "billy-ray",
       "uniques": 0,
       "views": 0,
@@ -673,7 +683,7 @@
       "warning": ""
     },
     {
-      "rank": 68,
+      "rank": 69,
       "repo": "bio",
       "uniques": 0,
       "views": 0,
@@ -683,7 +693,7 @@
       "warning": ""
     },
     {
-      "rank": 69,
+      "rank": 70,
       "repo": "blue-oyster-cult",
       "uniques": 0,
       "views": 0,
@@ -693,7 +703,7 @@
       "warning": ""
     },
     {
-      "rank": 70,
+      "rank": 71,
       "repo": "books.codementor.it",
       "uniques": 0,
       "views": 0,
@@ -703,7 +713,7 @@
       "warning": ""
     },
     {
-      "rank": 71,
+      "rank": 72,
       "repo": "books.yafb.net",
       "uniques": 0,
       "views": 0,
@@ -713,7 +723,7 @@
       "warning": ""
     },
     {
-      "rank": 72,
+      "rank": 73,
       "repo": "brailletouch",
       "uniques": 0,
       "views": 0,
@@ -723,18 +733,8 @@
       "warning": ""
     },
     {
-      "rank": 73,
-      "repo": "btproxy",
-      "uniques": 0,
-      "views": 0,
-      "sources": 0,
-      "stars": 1,
-      "trend": "",
-      "warning": ""
-    },
-    {
       "rank": 74,
-      "repo": "btproxy.old",
+      "repo": "btproxy",
       "uniques": 0,
       "views": 0,
       "sources": 0,
