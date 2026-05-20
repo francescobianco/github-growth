@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-05-19",
+  "generated_at": "2026-05-20",
   "repos": [
-    {
-      "repo": "waproxy",
-      "count": 7,
-      "uniques": 1
-    },
     {
       "repo": "redit",
       "count": 6,
@@ -57,11 +52,6 @@
       "uniques": 2
     },
     {
-      "repo": "bulk",
-      "count": 2,
-      "uniques": 1
-    },
-    {
       "repo": "crazy-nats",
       "count": 2,
       "uniques": 1
@@ -73,11 +63,6 @@
     },
     {
       "repo": "podman-security-bench",
-      "count": 2,
-      "uniques": 1
-    },
-    {
-      "repo": "sftpgo",
       "count": 2,
       "uniques": 1
     },
@@ -97,7 +82,22 @@
       "uniques": 1
     },
     {
-      "repo": "github-growth",
+      "repo": "github.yafb.net",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "kipo",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "open-webui-cli",
+      "count": 1,
+      "uniques": 1
+    },
+    {
+      "repo": "polimar",
       "count": 1,
       "uniques": 1
     }
