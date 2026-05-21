@@ -29,19 +29,19 @@
 <text x="456" y="143" class="lbl">3</text>
 <rect x="160" y="156" width="290" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="156" width="96.66666666666666" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="171" text-anchor="end" class="lbl">oauth2playground</text>
+<text x="152" y="171" text-anchor="end" class="lbl">bitnet</text>
 <text x="456" y="171" class="lbl">3</text>
-<rect x="160" y="184" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="184" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="199" text-anchor="end" class="lbl">github-traffic</text>
-<text x="359.3333333333333" y="199" class="lbl">2</text>
+<rect x="160" y="184" width="290" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="184" width="96.66666666666666" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="199" text-anchor="end" class="lbl">oauth2playground</text>
+<text x="456" y="199" class="lbl">3</text>
 <rect x="160" y="212" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="212" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="227" text-anchor="end" class="lbl">hookpool</text>
+<text x="152" y="227" text-anchor="end" class="lbl">github-traffic</text>
 <text x="359.3333333333333" y="227" class="lbl">2</text>
 <rect x="160" y="240" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="240" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="255" text-anchor="end" class="lbl">krudo64</text>
+<text x="152" y="255" text-anchor="end" class="lbl">hookpool</text>
 <text x="359.3333333333333" y="255" class="lbl">2</text>
 <rect x="160" y="268" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
 <rect x="160" y="268" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>

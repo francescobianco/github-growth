@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20",
+  "generated_at": "2026-05-21",
   "repos": [
     {
       "repo": "redit",
@@ -22,6 +22,11 @@
       "uniques": 1
     },
     {
+      "repo": "bitnet",
+      "count": 3,
+      "uniques": 1
+    },
+    {
       "repo": "oauth2playground",
       "count": 3,
       "uniques": 1
@@ -33,11 +38,6 @@
     },
     {
       "repo": "hookpool",
-      "count": 2,
-      "uniques": 2
-    },
-    {
-      "repo": "krudo64",
       "count": 2,
       "uniques": 2
     },
@@ -87,12 +87,12 @@
       "uniques": 1
     },
     {
-      "repo": "kipo",
+      "repo": "hardcode.blog",
       "count": 1,
       "uniques": 1
     },
     {
-      "repo": "open-webui-cli",
+      "repo": "kipo",
       "count": 1,
       "uniques": 1
     },
