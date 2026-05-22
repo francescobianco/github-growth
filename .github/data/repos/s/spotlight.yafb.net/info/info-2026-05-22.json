@@ -1,0 +1,18 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": "Makefile",
+  "description": "SWE Spotlight 💡 La newsletter italiana di ingegneria del software",
+  "topics": [
+    "newsletter",
+    "software-engineering"
+  ],
+  "archived": false,
+  "size_kb": 637,
+  "created_at": "2024-04-29T16:42:14Z",
+  "updated_at": "2024-10-13T14:41:33Z",
+  "pushed_at": "2024-10-13T14:41:29Z"
+}

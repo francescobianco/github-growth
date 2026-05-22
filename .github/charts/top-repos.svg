@@ -12,45 +12,45 @@
 <text x="400" y="26" text-anchor="middle" class="ttl">Top 10 Repos by Total Views</text>
 
 <rect x="160" y="44" width="580" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="44" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="59" text-anchor="end" class="lbl">redit</text>
-<text x="746" y="59" class="lbl">6</text>
-<rect x="160" y="72" width="483.33333333333337" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="72" width="96.66666666666666" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="87" text-anchor="end" class="lbl">php-imap2-demo</text>
-<text x="649.3333333333334" y="87" class="lbl">5</text>
-<rect x="160" y="100" width="290" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="100" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
-<text x="152" y="115" text-anchor="end" class="lbl">opencola</text>
-<text x="456" y="115" class="lbl">3</text>
-<rect x="160" y="128" width="290" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="128" width="96.66666666666666" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<rect x="160" y="44" width="116" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="59" text-anchor="end" class="lbl">php-imap2-demo</text>
+<text x="746" y="59" class="lbl">5</text>
+<rect x="160" y="72" width="348" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="72" width="232" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="87" text-anchor="end" class="lbl">opencola</text>
+<text x="514" y="87" class="lbl">3</text>
+<rect x="160" y="100" width="348" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="100" width="232" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="152" y="115" text-anchor="end" class="lbl">redit</text>
+<text x="514" y="115" class="lbl">3</text>
+<rect x="160" y="128" width="348" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="128" width="116" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="143" text-anchor="end" class="lbl">bashcov</text>
-<text x="456" y="143" class="lbl">3</text>
-<rect x="160" y="156" width="290" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="156" width="96.66666666666666" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="514" y="143" class="lbl">3</text>
+<rect x="160" y="156" width="348" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="156" width="116" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="171" text-anchor="end" class="lbl">bitnet</text>
-<text x="456" y="171" class="lbl">3</text>
-<rect x="160" y="184" width="290" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="184" width="96.66666666666666" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="514" y="171" class="lbl">3</text>
+<rect x="160" y="184" width="348" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="184" width="116" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="199" text-anchor="end" class="lbl">oauth2playground</text>
-<text x="456" y="199" class="lbl">3</text>
-<rect x="160" y="212" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="212" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="514" y="199" class="lbl">3</text>
+<rect x="160" y="212" width="232" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="212" width="232" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="227" text-anchor="end" class="lbl">github-traffic</text>
-<text x="359.3333333333333" y="227" class="lbl">2</text>
-<rect x="160" y="240" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="240" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="398" y="227" class="lbl">2</text>
+<rect x="160" y="240" width="232" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="240" width="232" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="255" text-anchor="end" class="lbl">hookpool</text>
-<text x="359.3333333333333" y="255" class="lbl">2</text>
-<rect x="160" y="268" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="268" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="398" y="255" class="lbl">2</text>
+<rect x="160" y="268" width="232" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="268" width="232" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="283" text-anchor="end" class="lbl">matrix-theme</text>
-<text x="359.3333333333333" y="283" class="lbl">2</text>
-<rect x="160" y="296" width="193.33333333333331" height="22" fill="#58a6ff" rx="3"/>
-<rect x="160" y="296" width="193.33333333333331" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
+<text x="398" y="283" class="lbl">2</text>
+<rect x="160" y="296" width="232" height="22" fill="#58a6ff" rx="3"/>
+<rect x="160" y="296" width="232" height="7.333333333333333" fill="#3fb950" rx="2" opacity="0.85"/>
 <text x="152" y="311" text-anchor="end" class="lbl">php-imap-client</text>
-<text x="359.3333333333333" y="311" class="lbl">2</text>
+<text x="398" y="311" class="lbl">2</text>
 <rect x="160" y="340" width="12" height="8" fill="#58a6ff"   rx="1"/>
 <text x="176" y="348" class="lbl">Views</text>
 <rect x="226" y="340" width="12" height="8" fill="#3fb950" rx="1" opacity="0.85"/>

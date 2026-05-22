@@ -1,11 +1,6 @@
 {
-  "generated_at": "2026-05-21",
+  "generated_at": "2026-05-22",
   "repos": [
-    {
-      "repo": "redit",
-      "count": 6,
-      "uniques": 2
-    },
     {
       "repo": "php-imap2-demo",
       "count": 5,
@@ -13,6 +8,11 @@
     },
     {
       "repo": "opencola",
+      "count": 3,
+      "uniques": 2
+    },
+    {
+      "repo": "redit",
       "count": 3,
       "uniques": 2
     },
