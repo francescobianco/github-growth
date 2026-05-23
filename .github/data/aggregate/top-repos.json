@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22",
+  "generated_at": "2026-05-23",
   "repos": [
     {
       "repo": "php-imap2-demo",
@@ -27,12 +27,22 @@
       "uniques": 1
     },
     {
+      "repo": "math",
+      "count": 3,
+      "uniques": 1
+    },
+    {
       "repo": "oauth2playground",
       "count": 3,
       "uniques": 1
     },
     {
       "repo": "github-traffic",
+      "count": 2,
+      "uniques": 2
+    },
+    {
+      "repo": "hardcode.blog",
       "count": 2,
       "uniques": 2
     },
@@ -87,17 +97,7 @@
       "uniques": 1
     },
     {
-      "repo": "hardcode.blog",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "kipo",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "polimar",
+      "repo": "ingegneria-del-software-in-italia",
       "count": 1,
       "uniques": 1
     }

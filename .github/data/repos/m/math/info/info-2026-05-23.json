@@ -1,0 +1,17 @@
+{
+  "stars": 1,
+  "forks": 0,
+  "watchers": 1,
+  "open_issues": 0,
+  "default_branch": "main",
+  "language": "Python",
+  "description": "A static math wiki",
+  "topics": [
+    "math"
+  ],
+  "archived": false,
+  "size_kb": 681,
+  "created_at": "2026-05-22T20:22:06Z",
+  "updated_at": "2026-05-23T18:49:57Z",
+  "pushed_at": "2026-05-23T14:36:18Z"
+}
