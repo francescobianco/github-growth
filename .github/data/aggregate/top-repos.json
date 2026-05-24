@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-05-23",
+  "generated_at": "2026-05-24",
   "repos": [
+    {
+      "repo": "aeterna",
+      "count": 15,
+      "uniques": 1
+    },
+    {
+      "repo": "math",
+      "count": 6,
+      "uniques": 2
+    },
     {
       "repo": "php-imap2-demo",
       "count": 5,
@@ -12,22 +22,12 @@
       "uniques": 2
     },
     {
-      "repo": "redit",
-      "count": 3,
-      "uniques": 2
-    },
-    {
       "repo": "bashcov",
       "count": 3,
       "uniques": 1
     },
     {
       "repo": "bitnet",
-      "count": 3,
-      "uniques": 1
-    },
-    {
-      "repo": "math",
       "count": 3,
       "uniques": 1
     },
@@ -62,6 +62,11 @@
       "uniques": 2
     },
     {
+      "repo": "redit",
+      "count": 2,
+      "uniques": 2
+    },
+    {
       "repo": "crazy-nats",
       "count": 2,
       "uniques": 1
@@ -92,12 +97,7 @@
       "uniques": 1
     },
     {
-      "repo": "github.yafb.net",
-      "count": 1,
-      "uniques": 1
-    },
-    {
-      "repo": "ingegneria-del-software-in-italia",
+      "repo": "github-growth",
       "count": 1,
       "uniques": 1
     }
